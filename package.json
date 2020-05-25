@@ -1,0 +1,50 @@
+{
+  "name": "tool-demo",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "index.js",
+  "scripts": {
+    "start-tool": "webpack-dev-server --watch --mode development --debug --config webpack.tool.config.js",
+    "build-tool": "webpack-cli -p --config webpack.tool.config.js"
+  },
+  "repository": "https://github.com/Pilu84/tool-demo.git",
+  "author": "OliverBunda <bundaoliver@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.9.6",
+    "@types/classnames": "^2.2.10",
+    "@types/react-burger-menu": "^2.6.1",
+    "@types/react-dom": "^16.9.8",
+    "@types/react-router-dom": "^5.1.5",
+    "@types/react-table": "6.7.21",
+    "react": "^16.13.1",
+    "react-burger-menu": "^2.6.13",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
+    "react-table": "6.8.6",
+    "react-tooltip": "^4.2.6",
+    "webpack-cli": "^3.3.11"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.9.6",
+    "@types/webpack": "^4.41.12",
+    "@types/webpack-dev-server": "^3.10.1",
+    "@types/webpack-sources": "^0.1.7",
+    "awesome-typescript-loader": "^5.2.1",
+    "babel-loader": "^8.1.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-runtime": "^6.26.0",
+    "css-loader": "^3.5.3",
+    "json-loader": "^0.5.7",
+    "less": "^3.11.1",
+    "less-loader": "^6.1.0",
+    "source-map-loader": "^0.2.4",
+    "style-loader": "^1.2.1",
+    "tslint": "^6.1.2",
+    "typescript": "^3.8.3",
+    "url-loader": "^4.1.0",
+    "webpack": "^4.43.0",
+    "webpack-command": "^0.5.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}

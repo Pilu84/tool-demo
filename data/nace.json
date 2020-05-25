@@ -1,0 +1,5974 @@
+[
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01",
+        "nace_erweiterter_code": "A 01",
+        "bezeichnung": "Landwirtschaft, Jagd und damit verbundene Tätigkeiten"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.1",
+        "nace_erweiterter_code": "A 01.1",
+        "bezeichnung": "Anbau einjähriger Pflanzen"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.11",
+        "nace_erweiterter_code": "A 01.11",
+        "bezeichnung": "Anbau von Getreide (ohne Reis), Hülsenfrüchten und Ölsaaten"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.12",
+        "nace_erweiterter_code": "A 01.12",
+        "bezeichnung": "Anbau von Reis"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.13",
+        "nace_erweiterter_code": "A 01.13",
+        "bezeichnung": "Anbau von Gemüse und Melonen sowie Wurzeln und Knollen"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.14",
+        "nace_erweiterter_code": "A 01.14",
+        "bezeichnung": "Anbau von Zuckerrohr"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.15",
+        "nace_erweiterter_code": "A 01.15",
+        "bezeichnung": "Anbau von Tabak"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.16",
+        "nace_erweiterter_code": "A 01.16",
+        "bezeichnung": "Anbau von Faserpflanzen"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.19",
+        "nace_erweiterter_code": "A 01.19",
+        "bezeichnung": "Anbau von sonstigen einjährigen Pflanzen"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.2",
+        "nace_erweiterter_code": "A 01.2",
+        "bezeichnung": "Anbau mehrjähriger Pflanzen"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.21",
+        "nace_erweiterter_code": "A 01.21",
+        "bezeichnung": "Anbau von Wein- und Tafeltrauben"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.22",
+        "nace_erweiterter_code": "A 01.22",
+        "bezeichnung": "Anbau von tropischen und subtropischen Früchten"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.23",
+        "nace_erweiterter_code": "A 01.23",
+        "bezeichnung": "Anbau von Zitrusfrüchten"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.24",
+        "nace_erweiterter_code": "A 01.24",
+        "bezeichnung": "Anbau von Kern- und Steinobst"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.25",
+        "nace_erweiterter_code": "A 01.25",
+        "bezeichnung": "Anbau von sonstigem Obst und Nüssen"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.26",
+        "nace_erweiterter_code": "A 01.26",
+        "bezeichnung": "Anbau von ölhaltigen Früchten"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.27",
+        "nace_erweiterter_code": "A 01.27",
+        "bezeichnung": "Anbau von Pflanzen zur Herstellung von Getränken"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.28",
+        "nace_erweiterter_code": "A 01.28",
+        "bezeichnung": "Anbau von Gewürzpflanzen, Pflanzen für aromatische, narkotische und pharmazeutische Zwecke"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.29",
+        "nace_erweiterter_code": "A 01.29",
+        "bezeichnung": "Anbau sonstiger mehrjähriger Pflanzen"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.3",
+        "nace_erweiterter_code": "A 01.3",
+        "bezeichnung": "Betrieb von Baumschulen sowie Anbau von Pflanzen zu Vermehrungszwecken"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.30",
+        "nace_erweiterter_code": "A 01.30",
+        "bezeichnung": "Betrieb von Baumschulen sowie Anbau von Pflanzen zu Vermehrungszwecken"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.4",
+        "nace_erweiterter_code": "A 01.4",
+        "bezeichnung": "Tierhaltung"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.41",
+        "nace_erweiterter_code": "A 01.41",
+        "bezeichnung": "Haltung von Milchkühen"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.42",
+        "nace_erweiterter_code": "A 01.42",
+        "bezeichnung": "Haltung von anderen Rindern"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.43",
+        "nace_erweiterter_code": "A 01.43",
+        "bezeichnung": "Haltung von Pferden und Eseln"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.44",
+        "nace_erweiterter_code": "A 01.44",
+        "bezeichnung": "Haltung von Kamelen"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.45",
+        "nace_erweiterter_code": "A 01.45",
+        "bezeichnung": "Haltung von Schafen und Ziegen"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.46",
+        "nace_erweiterter_code": "A 01.46",
+        "bezeichnung": "Haltung von Schweinen"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.47",
+        "nace_erweiterter_code": "A 01.47",
+        "bezeichnung": "Haltung von Geflügel"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.49",
+        "nace_erweiterter_code": "A 01.49",
+        "bezeichnung": "Sonstige Tierhaltung"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.5",
+        "nace_erweiterter_code": "A 01.5",
+        "bezeichnung": "Gemischte Landwirtschaft"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.50",
+        "nace_erweiterter_code": "A 01.50",
+        "bezeichnung": "Gemischte Landwirtschaft"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.6",
+        "nace_erweiterter_code": "A 01.6",
+        "bezeichnung": "Erbringung von landwirtschaftlichen Dienstleistungen"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.61",
+        "nace_erweiterter_code": "A 01.61",
+        "bezeichnung": "Erbringung von landwirtschaftlichen Dienstleistungen für den Pflanzenbau"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.62",
+        "nace_erweiterter_code": "A 01.62",
+        "bezeichnung": "Erbringung von landwirtschaftlichen Dienstleistungen für die Tierhaltung"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.63",
+        "nace_erweiterter_code": "A 01.63",
+        "bezeichnung": "Nach der Ernte anfallende Tätigkeiten in der pflanzlichen Erzeugung"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.64",
+        "nace_erweiterter_code": "A 01.64",
+        "bezeichnung": "Saatgutaufbereitung"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.7",
+        "nace_erweiterter_code": "A 01.7",
+        "bezeichnung": "Jagd, Fallenstellerei und damit verbundene Tätigkeiten"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "01.70",
+        "nace_erweiterter_code": "A 01.70",
+        "bezeichnung": "Jagd, Fallenstellerei und damit verbundene Tätigkeiten"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "02",
+        "nace_erweiterter_code": "A 02",
+        "bezeichnung": "Forstwirtschaft und Holzeinschlag"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "02.1",
+        "nace_erweiterter_code": "A 02.1",
+        "bezeichnung": "Forstwirtschaft"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "02.10",
+        "nace_erweiterter_code": "A 02.10",
+        "bezeichnung": "Forstwirtschaft"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "02.2",
+        "nace_erweiterter_code": "A 02.2",
+        "bezeichnung": "Holzeinschlag"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "02.20",
+        "nace_erweiterter_code": "A 02.20",
+        "bezeichnung": "Holzeinschlag"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "02.3",
+        "nace_erweiterter_code": "A 02.3",
+        "bezeichnung": "Sammeln von wild wachsenden Produkten (ohne Holz)"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "02.30",
+        "nace_erweiterter_code": "A 02.30",
+        "bezeichnung": "Sammeln von wild wachsenden Produkten (ohne Holz)"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "02.4",
+        "nace_erweiterter_code": "A 02.4",
+        "bezeichnung": "Erbringung von Dienstleistungen für Forstwirtschaft und Holzeinschlag"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "02.40",
+        "nace_erweiterter_code": "A 02.40",
+        "bezeichnung": "Erbringung von Dienstleistungen für Forstwirtschaft und Holzeinschlag"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "03",
+        "nace_erweiterter_code": "A 03",
+        "bezeichnung": "Fischerei und Aquakultur"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "03.1",
+        "nace_erweiterter_code": "A 03.1",
+        "bezeichnung": "Fischerei"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "03.11",
+        "nace_erweiterter_code": "A 03.11",
+        "bezeichnung": "Meeresfischerei"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "03.12",
+        "nace_erweiterter_code": "A 03.12",
+        "bezeichnung": "Süßwasserfischerei"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "03.2",
+        "nace_erweiterter_code": "A 03.2",
+        "bezeichnung": "Aquakultur"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "03.21",
+        "nace_erweiterter_code": "A 03.21",
+        "bezeichnung": "Meeresaquakultur"
+    },
+    {
+        "nace_abschnittscode": "A",
+        "nace_code": "03.22",
+        "nace_erweiterter_code": "A 03.22",
+        "bezeichnung": "Süßwasseraquakultur"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "",
+        "nace_erweiterter_code": "B",
+        "bezeichnung": "Bergbau und Gewinnung von Steinen und Erden"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "05",
+        "nace_erweiterter_code": "B 05",
+        "bezeichnung": "Kohlenbergbau"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "05.1",
+        "nace_erweiterter_code": "B 05.1",
+        "bezeichnung": "Steinkohlenbergbau"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "05.10",
+        "nace_erweiterter_code": "B 05.10",
+        "bezeichnung": "Steinkohlenbergbau"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "05.2",
+        "nace_erweiterter_code": "B 05.2",
+        "bezeichnung": "Braunkohlenbergbau"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "05.20",
+        "nace_erweiterter_code": "B 05.20",
+        "bezeichnung": "Braunkohlenbergbau"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "06",
+        "nace_erweiterter_code": "B 06",
+        "bezeichnung": "Gewinnung von Erdöl und Erdgas"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "06.1",
+        "nace_erweiterter_code": "B 06.1",
+        "bezeichnung": "Gewinnung von Erdöl"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "06.10",
+        "nace_erweiterter_code": "B 06.10",
+        "bezeichnung": "Gewinnung von Erdöl"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "06.2",
+        "nace_erweiterter_code": "B 06.2",
+        "bezeichnung": "Gewinnung von Erdgas"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "06.20",
+        "nace_erweiterter_code": "B 06.20",
+        "bezeichnung": "Gewinnung von Erdgas"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "07",
+        "nace_erweiterter_code": "B 07",
+        "bezeichnung": "Erzbergbau"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "07.1",
+        "nace_erweiterter_code": "B 07.1",
+        "bezeichnung": "Eisenerzbergbau"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "07.10",
+        "nace_erweiterter_code": "B 07.10",
+        "bezeichnung": "Eisenerzbergbau"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "07.2",
+        "nace_erweiterter_code": "B 07.2",
+        "bezeichnung": "NE-Metallerzbergbau"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "07.21",
+        "nace_erweiterter_code": "B 07.21",
+        "bezeichnung": "Bergbau auf Uran- und Thoriumerze"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "07.29",
+        "nace_erweiterter_code": "B 07.29",
+        "bezeichnung": "Sonstiger NE-Metallerzbergbau"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "08",
+        "nace_erweiterter_code": "B 08",
+        "bezeichnung": "Gewinnung von Steinen und Erden, sonstiger Bergbau"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "08.1",
+        "nace_erweiterter_code": "B 08.1",
+        "bezeichnung": "Gewinnung von Natursteinen, Kies, Sand, Ton und Kaolin"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "08.11",
+        "nace_erweiterter_code": "B 08.11",
+        "bezeichnung": "Gewinnung von Naturwerksteinen und Natursteinen, Kalk- und Gipsstein, Kreide und Schiefer"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "08.12",
+        "nace_erweiterter_code": "B 08.12",
+        "bezeichnung": "Gewinnung von Kies, Sand, Ton und Kaolin"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "08.9",
+        "nace_erweiterter_code": "B 08.9",
+        "bezeichnung": "Sonstiger Bergbau; Gewinnung von Steinen und Erden a.n.g."
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "08.91",
+        "nace_erweiterter_code": "B 08.91",
+        "bezeichnung": "Bergbau auf chemische und Düngemittelminerale"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "08.92",
+        "nace_erweiterter_code": "B 08.92",
+        "bezeichnung": "Torfgewinnung"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "08.93",
+        "nace_erweiterter_code": "B 08.93",
+        "bezeichnung": "Gewinnung von Salz"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "08.99",
+        "nace_erweiterter_code": "B 08.99",
+        "bezeichnung": "Gewinnung von Steinen und Erden a.n.g."
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "09",
+        "nace_erweiterter_code": "B 09",
+        "bezeichnung": "Erbringung von Dienstleistungen für den Bergbau und für die Gewinnung von Steinen und Erden"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "09.1",
+        "nace_erweiterter_code": "B 09.1",
+        "bezeichnung": "Erbringung von Dienstleistungen für die Gewinnung von Erdöl und Erdgas"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "09.10",
+        "nace_erweiterter_code": "B 09.10",
+        "bezeichnung": "Erbringung von Dienstleistungen für die Gewinnung von Erdöl und Erdgas"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "09.9",
+        "nace_erweiterter_code": "B 09.9",
+        "bezeichnung": "Erbringung von Dienstleistungen für den sonstigen Bergbau und die Gewinnung von Steinen und Erden"
+    },
+    {
+        "nace_abschnittscode": "B",
+        "nace_code": "09.90",
+        "nace_erweiterter_code": "B 09.90",
+        "bezeichnung": "Erbringung von Dienstleistungen für den sonstigen Bergbau und die Gewinnung von Steinen und Erden"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": "",
+        "nace_erweiterter_code": "C",
+        "bezeichnung": "Herstellung von Waren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10,
+        "nace_erweiterter_code": "C 10",
+        "bezeichnung": "Herstellung von Nahrungs- und Futtermitteln"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.1,
+        "nace_erweiterter_code": "C 10.1",
+        "bezeichnung": "Schlachten und Fleischverarbeitung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.11,
+        "nace_erweiterter_code": "C 10.11",
+        "bezeichnung": "Schlachten (ohne Schlachten von Geflügel)"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.12,
+        "nace_erweiterter_code": "C 10.12",
+        "bezeichnung": "Schlachten von Geflügel"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.13,
+        "nace_erweiterter_code": "C 10.13",
+        "bezeichnung": "Fleischverarbeitung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.2,
+        "nace_erweiterter_code": "C 10.2",
+        "bezeichnung": "Fischverarbeitung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.2,
+        "nace_erweiterter_code": "C 10.20",
+        "bezeichnung": "Fischverarbeitung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.3,
+        "nace_erweiterter_code": "C 10.3",
+        "bezeichnung": "Obst- und Gemüseverarbeitung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.31,
+        "nace_erweiterter_code": "C 10.31",
+        "bezeichnung": "Kartoffelverarbeitung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.32,
+        "nace_erweiterter_code": "C 10.32",
+        "bezeichnung": "Herstellung von Frucht- und Gemüsesäften"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.39,
+        "nace_erweiterter_code": "C 10.39",
+        "bezeichnung": "Sonstige Verarbeitung von Obst und Gemüse"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.4,
+        "nace_erweiterter_code": "C 10.4",
+        "bezeichnung": "Herstellung von pflanzlichen und tierischen Ölen und Fetten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.41,
+        "nace_erweiterter_code": "C 10.41",
+        "bezeichnung": "Herstellung von Ölen und Fetten (ohne Margarine u.ä. Nahrungsfette)"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.42,
+        "nace_erweiterter_code": "C 10.42",
+        "bezeichnung": "Herstellung von Margarine u.ä. Nahrungsfetten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.5,
+        "nace_erweiterter_code": "C 10.5",
+        "bezeichnung": "Milchverarbeitung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.51,
+        "nace_erweiterter_code": "C 10.51",
+        "bezeichnung": "Milchverarbeitung (ohne Herstellung von Speiseeis)"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.52,
+        "nace_erweiterter_code": "C 10.52",
+        "bezeichnung": "Herstellung von Speiseeis"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.6,
+        "nace_erweiterter_code": "C 10.6",
+        "bezeichnung": "Mahl- und Schälmühlen, Herstellung von Stärke und Stärkeerzeugnissen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.61,
+        "nace_erweiterter_code": "C 10.61",
+        "bezeichnung": "Mahl- und Schälmühlen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.62,
+        "nace_erweiterter_code": "C 10.62",
+        "bezeichnung": "Herstellung von Stärke und Stärkeerzeugnissen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.7,
+        "nace_erweiterter_code": "C 10.7",
+        "bezeichnung": "Herstellung von Back- und Teigwaren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.71,
+        "nace_erweiterter_code": "C 10.71",
+        "bezeichnung": "Herstellung von Backwaren (ohne Dauerbackwaren)"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.72,
+        "nace_erweiterter_code": "C 10.72",
+        "bezeichnung": "Herstellung von Dauerbackwaren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.73,
+        "nace_erweiterter_code": "C 10.73",
+        "bezeichnung": "Herstellung von Teigwaren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.8,
+        "nace_erweiterter_code": "C 10.8",
+        "bezeichnung": "Herstellung von sonstigen Nahrungsmitteln"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.81,
+        "nace_erweiterter_code": "C 10.81",
+        "bezeichnung": "Herstellung von Zucker"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.82,
+        "nace_erweiterter_code": "C 10.82",
+        "bezeichnung": "Herstellung von Süßwaren (ohne Dauerbackwaren)"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.83,
+        "nace_erweiterter_code": "C 10.83",
+        "bezeichnung": "Verarbeitung von Kaffee und Tee, Herstellung von Kaffee-Ersatz"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.84,
+        "nace_erweiterter_code": "C 10.84",
+        "bezeichnung": "Herstellung von Würzmitteln und Soßen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.85,
+        "nace_erweiterter_code": "C 10.85",
+        "bezeichnung": "Herstellung von Fertiggerichten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.86,
+        "nace_erweiterter_code": "C 10.86",
+        "bezeichnung": "Herstellung von homogenisierten und diätetischen Nahrungsmitteln"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.89,
+        "nace_erweiterter_code": "C 10.89",
+        "bezeichnung": "Herstellung von sonstigen Nahrungsmitteln a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.9,
+        "nace_erweiterter_code": "C 10.9",
+        "bezeichnung": "Herstellung von Futtermitteln"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.91,
+        "nace_erweiterter_code": "C 10.91",
+        "bezeichnung": "Herstellung von Futtermitteln für Nutztiere"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 10.92,
+        "nace_erweiterter_code": "C 10.92",
+        "bezeichnung": "Herstellung von Futtermitteln für sonstige Tiere"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 11,
+        "nace_erweiterter_code": "C 11",
+        "bezeichnung": "Getränkeherstellung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 11,
+        "nace_erweiterter_code": "C 11.0",
+        "bezeichnung": "Getränkeherstellung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 11.01,
+        "nace_erweiterter_code": "C 11.01",
+        "bezeichnung": "Herstellung von Spirituosen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 11.02,
+        "nace_erweiterter_code": "C 11.02",
+        "bezeichnung": "Herstellung von Traubenwein"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 11.03,
+        "nace_erweiterter_code": "C 11.03",
+        "bezeichnung": "Herstellung von Apfelwein und anderen Fruchtweinen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 11.04,
+        "nace_erweiterter_code": "C 11.04",
+        "bezeichnung": "Herstellung von Wermutwein und sonstigen aromatisierten Weinen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 11.05,
+        "nace_erweiterter_code": "C 11.05",
+        "bezeichnung": "Herstellung von Bier"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 11.06,
+        "nace_erweiterter_code": "C 11.06",
+        "bezeichnung": "Herstellung von Malz"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 11.07,
+        "nace_erweiterter_code": "C 11.07",
+        "bezeichnung": "Herstellung von Erfrischungsgetränken; Gewinnung natürlicher Mineralwässer"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 12,
+        "nace_erweiterter_code": "C 12",
+        "bezeichnung": "Tabakverarbeitung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 12,
+        "nace_erweiterter_code": "C 12.0",
+        "bezeichnung": "Tabakverarbeitung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 12,
+        "nace_erweiterter_code": "C 12.00",
+        "bezeichnung": "Tabakverarbeitung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 13,
+        "nace_erweiterter_code": "C 13",
+        "bezeichnung": "Herstellung von Textilien"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 13.1,
+        "nace_erweiterter_code": "C 13.1",
+        "bezeichnung": "Spinnstoffaufbereitung und Spinnerei"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 13.1,
+        "nace_erweiterter_code": "C 13.10",
+        "bezeichnung": "Spinnstoffaufbereitung und Spinnerei"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 13.2,
+        "nace_erweiterter_code": "C 13.2",
+        "bezeichnung": "Weberei"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 13.2,
+        "nace_erweiterter_code": "C 13.20",
+        "bezeichnung": "Weberei"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 13.3,
+        "nace_erweiterter_code": "C 13.3",
+        "bezeichnung": "Veredlung von Textilien und Bekleidung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 13.3,
+        "nace_erweiterter_code": "C 13.30",
+        "bezeichnung": "Veredlung von Textilien und Bekleidung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 13.9,
+        "nace_erweiterter_code": "C 13.9",
+        "bezeichnung": "Herstellung von sonstigen Textilwaren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 13.91,
+        "nace_erweiterter_code": "C 13.91",
+        "bezeichnung": "Herstellung von gewirktem und gestricktem Stoff"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 13.92,
+        "nace_erweiterter_code": "C 13.92",
+        "bezeichnung": "Herstellung von konfektionierten Textilwaren (ohne Bekleidung)"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 13.93,
+        "nace_erweiterter_code": "C 13.93",
+        "bezeichnung": "Herstellung von Teppichen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 13.94,
+        "nace_erweiterter_code": "C 13.94",
+        "bezeichnung": "Herstellung von Seilerwaren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 13.95,
+        "nace_erweiterter_code": "C 13.95",
+        "bezeichnung": "Herstellung von Vliesstoff und Erzeugnissen daraus (ohne Bekleidung)"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 13.96,
+        "nace_erweiterter_code": "C 13.96",
+        "bezeichnung": "Herstellung von technischen Textilien"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 13.99,
+        "nace_erweiterter_code": "C 13.99",
+        "bezeichnung": "Herstellung von sonstigen Textilwaren a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 14,
+        "nace_erweiterter_code": "C 14",
+        "bezeichnung": "Herstellung von Bekleidung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 14.1,
+        "nace_erweiterter_code": "C 14.1",
+        "bezeichnung": "Herstellung von Bekleidung (ohne Pelzbekleidung)"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 14.11,
+        "nace_erweiterter_code": "C 14.11",
+        "bezeichnung": "Herstellung von Lederbekleidung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 14.12,
+        "nace_erweiterter_code": "C 14.12",
+        "bezeichnung": "Herstellung von Arbeits- und Berufsbekleidung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 14.13,
+        "nace_erweiterter_code": "C 14.13",
+        "bezeichnung": "Herstellung von sonstiger Oberbekleidung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 14.14,
+        "nace_erweiterter_code": "C 14.14",
+        "bezeichnung": "Herstellung von Wäsche"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 14.19,
+        "nace_erweiterter_code": "C 14.19",
+        "bezeichnung": "Herstellung von sonstiger Bekleidung und Bekleidungszubehör a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 14.2,
+        "nace_erweiterter_code": "C 14.2",
+        "bezeichnung": "Herstellung von Pelzwaren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 14.2,
+        "nace_erweiterter_code": "C 14.20",
+        "bezeichnung": "Herstellung von Pelzwaren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 14.3,
+        "nace_erweiterter_code": "C 14.3",
+        "bezeichnung": "Herstellung von Bekleidung aus gewirktem und gestricktem Stoff"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 14.31,
+        "nace_erweiterter_code": "C 14.31",
+        "bezeichnung": "Herstellung von Strumpfwaren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 14.39,
+        "nace_erweiterter_code": "C 14.39",
+        "bezeichnung": "Herstellung von sonstiger Bekleidung aus gewirktem und gestricktem Stoff"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 15,
+        "nace_erweiterter_code": "C 15",
+        "bezeichnung": "Herstellung von Leder, Lederwaren und Schuhen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 15.1,
+        "nace_erweiterter_code": "C 15.1",
+        "bezeichnung": "Herstellung von Leder und Lederwaren (ohne Herstellung von Lederbekleidung)"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 15.11,
+        "nace_erweiterter_code": "C 15.11",
+        "bezeichnung": "Herstellung von Leder und Lederfaserstoff; Zurichtung und Färben von Fellen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 15.12,
+        "nace_erweiterter_code": "C 15.12",
+        "bezeichnung": "Lederverarbeitung (ohne Herstellung von Lederbekleidung)"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 15.2,
+        "nace_erweiterter_code": "C 15.2",
+        "bezeichnung": "Herstellung von Schuhen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 15.2,
+        "nace_erweiterter_code": "C 15.20",
+        "bezeichnung": "Herstellung von Schuhen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 16,
+        "nace_erweiterter_code": "C 16",
+        "bezeichnung": "Herstellung von Holz-, Flecht-, Korb- und Korkwaren (ohne Möbel)"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 16.1,
+        "nace_erweiterter_code": "C 16.1",
+        "bezeichnung": "Säge-, Hobel- und Holzimprägnierwerke"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 16.1,
+        "nace_erweiterter_code": "C 16.10",
+        "bezeichnung": "Säge-, Hobel- und Holzimprägnierwerke"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 16.2,
+        "nace_erweiterter_code": "C 16.2",
+        "bezeichnung": "Herstellung von sonstigen Holz-, Kork-, Flecht- und Korbwaren (ohne Möbel)"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 16.21,
+        "nace_erweiterter_code": "C 16.21",
+        "bezeichnung": "Herstellung von Furnier-, Sperrholz-, Holzfaser- und Holzspanplatten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 16.22,
+        "nace_erweiterter_code": "C 16.22",
+        "bezeichnung": "Herstellung von Parketttafeln"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 16.23,
+        "nace_erweiterter_code": "C 16.23",
+        "bezeichnung": "Herstellung von sonstigen Konstruktionsteilen, Fertigbauteilen, Ausbauelementen und Fertigteilbauten aus Holz"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 16.24,
+        "nace_erweiterter_code": "C 16.24",
+        "bezeichnung": "Herstellung von Verpackungsmitteln, Lagerbehältern und Ladungsträgern aus Holz"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 16.29,
+        "nace_erweiterter_code": "C 16.29",
+        "bezeichnung": "Herstellung von Holzwaren a.n.g., Kork-, Flecht- und Korbwaren (ohne Möbel)"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 17,
+        "nace_erweiterter_code": "C 17",
+        "bezeichnung": "Herstellung von Papier, Pappe und Waren daraus"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 17.1,
+        "nace_erweiterter_code": "C 17.1",
+        "bezeichnung": "Herstellung von Holz- und Zellstoff, Papier, Karton und Pappe"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 17.11,
+        "nace_erweiterter_code": "C 17.11",
+        "bezeichnung": "Herstellung von Holz- und Zellstoff"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 17.12,
+        "nace_erweiterter_code": "C 17.12",
+        "bezeichnung": "Herstellung von Papier, Karton und Pappe"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 17.2,
+        "nace_erweiterter_code": "C 17.2",
+        "bezeichnung": "Herstellung von Waren aus Papier, Karton und Pappe"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 17.21,
+        "nace_erweiterter_code": "C 17.21",
+        "bezeichnung": "Herstellung von Wellpapier und -pappe sowie von Verpackungsmitteln aus Papier, Karton und Pappe"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 17.22,
+        "nace_erweiterter_code": "C 17.22",
+        "bezeichnung": "Herstellung von Haushalts-, Hygiene- und Toilettenartikeln aus Zellstoff, Papier und Pappe"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 17.23,
+        "nace_erweiterter_code": "C 17.23",
+        "bezeichnung": "Herstellung von Schreibwaren und Bürobedarf aus Papier, Karton und Pappe"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 17.24,
+        "nace_erweiterter_code": "C 17.24",
+        "bezeichnung": "Herstellung von Tapeten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 17.29,
+        "nace_erweiterter_code": "C 17.29",
+        "bezeichnung": "Herstellung von sonstigen Waren aus Papier, Karton und Pappe"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 18,
+        "nace_erweiterter_code": "C 18",
+        "bezeichnung": "Herstellung von Druckerzeugnissen; Vervielfältigung von bespielten Ton-, Bild- und Datenträgern"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 18.1,
+        "nace_erweiterter_code": "C 18.1",
+        "bezeichnung": "Herstellung von Druckerzeugnissen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 18.11,
+        "nace_erweiterter_code": "C 18.11",
+        "bezeichnung": "Drucken von Zeitungen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 18.12,
+        "nace_erweiterter_code": "C 18.12",
+        "bezeichnung": "Drucken a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 18.13,
+        "nace_erweiterter_code": "C 18.13",
+        "bezeichnung": "Druck- und Medienvorstufe"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 18.14,
+        "nace_erweiterter_code": "C 18.14",
+        "bezeichnung": "Binden von Druckerzeugnissen und damit verbundene Dienstleistungen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 18.2,
+        "nace_erweiterter_code": "C 18.2",
+        "bezeichnung": "Vervielfältigung von bespielten Ton-, Bild- und Datenträgern"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 18.2,
+        "nace_erweiterter_code": "C 18.20",
+        "bezeichnung": "Vervielfältigung von bespielten Ton-, Bild- und Datenträgern"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 19,
+        "nace_erweiterter_code": "C 19",
+        "bezeichnung": "Kokerei und Mineralölverarbeitung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 19.1,
+        "nace_erweiterter_code": "C 19.1",
+        "bezeichnung": "Kokerei"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 19.1,
+        "nace_erweiterter_code": "C 19.10",
+        "bezeichnung": "Kokerei"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 19.2,
+        "nace_erweiterter_code": "C 19.2",
+        "bezeichnung": "Mineralölverarbeitung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 19.2,
+        "nace_erweiterter_code": "C 19.20",
+        "bezeichnung": "Mineralölverarbeitung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20,
+        "nace_erweiterter_code": "C 20",
+        "bezeichnung": "Herstellung von chemischen Erzeugnissen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20.1,
+        "nace_erweiterter_code": "C 20.1",
+        "bezeichnung": "Herstellung von chemischen Grundstoffen, Düngemitteln und Stickstoffverbindungen, Kunststoffen in Primärformen und synthetischem Kautschuk in Primärformen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20.11,
+        "nace_erweiterter_code": "C 20.11",
+        "bezeichnung": "Herstellung von Industriegasen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20.12,
+        "nace_erweiterter_code": "C 20.12",
+        "bezeichnung": "Herstellung von Farbstoffen und Pigmenten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20.13,
+        "nace_erweiterter_code": "C 20.13",
+        "bezeichnung": "Herstellung von sonstigen anorganischen Grundstoffen und Chemikalien"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20.14,
+        "nace_erweiterter_code": "C 20.14",
+        "bezeichnung": "Herstellung von sonstigen organischen Grundstoffen und Chemikalien"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20.15,
+        "nace_erweiterter_code": "C 20.15",
+        "bezeichnung": "Herstellung von Düngemitteln und Stickstoffverbindungen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20.16,
+        "nace_erweiterter_code": "C 20.16",
+        "bezeichnung": "Herstellung von Kunststoffen in Primärformen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20.17,
+        "nace_erweiterter_code": "C 20.17",
+        "bezeichnung": "Herstellung von synthetischem Kautschuk in Primärformen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20.2,
+        "nace_erweiterter_code": "C 20.2",
+        "bezeichnung": "Herstellung von Schädlingsbekämpfungs-, Pflanzenschutz- und Desinfektionsmitteln"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20.2,
+        "nace_erweiterter_code": "C 20.20",
+        "bezeichnung": "Herstellung von Schädlingsbekämpfungs-, Pflanzenschutz- und Desinfektionsmitteln"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20.3,
+        "nace_erweiterter_code": "C 20.3",
+        "bezeichnung": "Herstellung von Anstrichmitteln, Druckfarben und Kitten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20.3,
+        "nace_erweiterter_code": "C 20.30",
+        "bezeichnung": "Herstellung von Anstrichmitteln, Druckfarben und Kitten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20.4,
+        "nace_erweiterter_code": "C 20.4",
+        "bezeichnung": "Herstellung von Seifen, Wasch-, Reinigungs- und Körperpflegemitteln sowie von Duftstoffen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20.41,
+        "nace_erweiterter_code": "C 20.41",
+        "bezeichnung": "Herstellung von Seifen, Wasch-, Reinigungs- und Poliermitteln"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20.42,
+        "nace_erweiterter_code": "C 20.42",
+        "bezeichnung": "Herstellung von Körperpflegemitteln und Duftstoffen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20.5,
+        "nace_erweiterter_code": "C 20.5",
+        "bezeichnung": "Herstellung von sonstigen chemischen Erzeugnissen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20.51,
+        "nace_erweiterter_code": "C 20.51",
+        "bezeichnung": "Herstellung von pyrotechnischen Erzeugnissen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20.52,
+        "nace_erweiterter_code": "C 20.52",
+        "bezeichnung": "Herstellung von Klebstoffen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20.53,
+        "nace_erweiterter_code": "C 20.53",
+        "bezeichnung": "Herstellung von etherischen Ölen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20.59,
+        "nace_erweiterter_code": "C 20.59",
+        "bezeichnung": "Herstellung von sonstigen chemischen Erzeugnissen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20.6,
+        "nace_erweiterter_code": "C 20.6",
+        "bezeichnung": "Herstellung von Chemiefasern"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 20.6,
+        "nace_erweiterter_code": "C 20.60",
+        "bezeichnung": "Herstellung von Chemiefasern"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 21,
+        "nace_erweiterter_code": "C 21",
+        "bezeichnung": "Herstellung von pharmazeutischen Erzeugnissen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 21.1,
+        "nace_erweiterter_code": "C 21.1",
+        "bezeichnung": "Herstellung von pharmazeutischen Grundstoffen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 21.1,
+        "nace_erweiterter_code": "C 21.10",
+        "bezeichnung": "Herstellung von pharmazeutischen Grundstoffen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 21.2,
+        "nace_erweiterter_code": "C 21.2",
+        "bezeichnung": "Herstellung von pharmazeutischen Spezialitäten und sonstigen pharmazeutischen Erzeugnissen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 21.2,
+        "nace_erweiterter_code": "C 21.20",
+        "bezeichnung": "Herstellung von pharmazeutischen Spezialitäten und sonstigen pharmazeutischen Erzeugnissen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 22,
+        "nace_erweiterter_code": "C 22",
+        "bezeichnung": "Herstellung von Gummi- und Kunststoffwaren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 22.1,
+        "nace_erweiterter_code": "C 22.1",
+        "bezeichnung": "Herstellung von Gummiwaren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 22.11,
+        "nace_erweiterter_code": "C 22.11",
+        "bezeichnung": "Herstellung und Runderneuerung von Bereifungen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 22.19,
+        "nace_erweiterter_code": "C 22.19",
+        "bezeichnung": "Herstellung von sonstigen Gummiwaren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 22.2,
+        "nace_erweiterter_code": "C 22.2",
+        "bezeichnung": "Herstellung von Kunststoffwaren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 22.21,
+        "nace_erweiterter_code": "C 22.21",
+        "bezeichnung": "Herstellung von Platten, Folien, Schläuchen und Profilen aus Kunststoffen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 22.22,
+        "nace_erweiterter_code": "C 22.22",
+        "bezeichnung": "Herstellung von Verpackungsmitteln aus Kunststoffen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 22.23,
+        "nace_erweiterter_code": "C 22.23",
+        "bezeichnung": "Herstellung von Baubedarfsartikeln aus Kunststoffen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 22.29,
+        "nace_erweiterter_code": "C 22.29",
+        "bezeichnung": "Herstellung von sonstigen Kunststoffwaren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23,
+        "nace_erweiterter_code": "C 23",
+        "bezeichnung": "Herstellung von Glas und Glaswaren, Keramik, Verarbeitung von Steinen und Erden"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.1,
+        "nace_erweiterter_code": "C 23.1",
+        "bezeichnung": "Herstellung von Glas und Glaswaren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.11,
+        "nace_erweiterter_code": "C 23.11",
+        "bezeichnung": "Herstellung von Flachglas"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.12,
+        "nace_erweiterter_code": "C 23.12",
+        "bezeichnung": "Veredlung und Bearbeitung von Flachglas"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.13,
+        "nace_erweiterter_code": "C 23.13",
+        "bezeichnung": "Herstellung von Hohlglas"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.14,
+        "nace_erweiterter_code": "C 23.14",
+        "bezeichnung": "Herstellung von Glasfasern und Waren daraus"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.19,
+        "nace_erweiterter_code": "C 23.19",
+        "bezeichnung": "Herstellung, Veredlung und Bearbeitung von sonstigem Glas einschließlich technischen Glaswaren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.2,
+        "nace_erweiterter_code": "C 23.2",
+        "bezeichnung": "Herstellung von feuerfesten keramischen Werkstoffen und Waren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.2,
+        "nace_erweiterter_code": "C 23.20",
+        "bezeichnung": "Herstellung von feuerfesten keramischen Werkstoffen und Waren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.3,
+        "nace_erweiterter_code": "C 23.3",
+        "bezeichnung": "Herstellung von keramischen Baumaterialien"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.31,
+        "nace_erweiterter_code": "C 23.31",
+        "bezeichnung": "Herstellung von keramischen Wand- und Bodenfliesen und -platten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.32,
+        "nace_erweiterter_code": "C 23.32",
+        "bezeichnung": "Herstellung von Ziegeln und sonstiger Baukeramik"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.4,
+        "nace_erweiterter_code": "C 23.4",
+        "bezeichnung": "Herstellung von sonstigen Porzellan- und keramischen Erzeugnissen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.41,
+        "nace_erweiterter_code": "C 23.41",
+        "bezeichnung": "Herstellung von keramischen Haushaltswaren und Ziergegenständen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.42,
+        "nace_erweiterter_code": "C 23.42",
+        "bezeichnung": "Herstellung von Sanitärkeramik"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.43,
+        "nace_erweiterter_code": "C 23.43",
+        "bezeichnung": "Herstellung von Isolatoren und Isolierteilen aus Keramik"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.44,
+        "nace_erweiterter_code": "C 23.44",
+        "bezeichnung": "Herstellung von keramischen Erzeugnissen für sonstige technische Zwecke"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.49,
+        "nace_erweiterter_code": "C 23.49",
+        "bezeichnung": "Herstellung von sonstigen keramischen Erzeugnissen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.5,
+        "nace_erweiterter_code": "C 23.5",
+        "bezeichnung": "Herstellung von Zement, Kalk und gebranntem Gips"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.51,
+        "nace_erweiterter_code": "C 23.51",
+        "bezeichnung": "Herstellung von Zement"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.52,
+        "nace_erweiterter_code": "C 23.52",
+        "bezeichnung": "Herstellung von Kalk und gebranntem Gips"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.6,
+        "nace_erweiterter_code": "C 23.6",
+        "bezeichnung": "Herstellung von Erzeugnissen aus Beton, Zement und Gips"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.61,
+        "nace_erweiterter_code": "C 23.61",
+        "bezeichnung": "Herstellung von Erzeugnissen aus Beton, Zement und Kalksandstein für den Bau"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.62,
+        "nace_erweiterter_code": "C 23.62",
+        "bezeichnung": "Herstellung von Gipserzeugnissen für den Bau"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.63,
+        "nace_erweiterter_code": "C 23.63",
+        "bezeichnung": "Herstellung von Frischbeton (Transportbeton)"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.64,
+        "nace_erweiterter_code": "C 23.64",
+        "bezeichnung": "Herstellung von Mörtel und anderem Beton (Trockenbeton)"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.65,
+        "nace_erweiterter_code": "C 23.65",
+        "bezeichnung": "Herstellung von Faserzementwaren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.69,
+        "nace_erweiterter_code": "C 23.69",
+        "bezeichnung": "Herstellung von Erzeugnissen aus Beton, Zement und Gips a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.7,
+        "nace_erweiterter_code": "C 23.7",
+        "bezeichnung": "Be- und Verarbeitung von Naturwerksteinen und Natursteinen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.7,
+        "nace_erweiterter_code": "C 23.70",
+        "bezeichnung": "Be- und Verarbeitung von Naturwerksteinen und Natursteinen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.9,
+        "nace_erweiterter_code": "C 23.9",
+        "bezeichnung": "Herstellung von Schleifkörpern und Schleifmitteln auf Unterlage sowie sonstigen Erzeugnissen aus nichtmetallischen Mineralien"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.91,
+        "nace_erweiterter_code": "C 23.91",
+        "bezeichnung": "Herstellung von Schleifkörpern und Schleifmitteln auf Unterlage"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 23.99,
+        "nace_erweiterter_code": "C 23.99",
+        "bezeichnung": "Herstellung von sonstigen Erzeugnissen aus nichtmetallischen Mineralien a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 24,
+        "nace_erweiterter_code": "C 24",
+        "bezeichnung": "Metallerzeugung und -bearbeitung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 24.1,
+        "nace_erweiterter_code": "C 24.1",
+        "bezeichnung": "Erzeugung von Roheisen, Stahl und Ferrolegierungen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 24.1,
+        "nace_erweiterter_code": "C 24.10",
+        "bezeichnung": "Erzeugung von Roheisen, Stahl und Ferrolegierungen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 24.2,
+        "nace_erweiterter_code": "C 24.2",
+        "bezeichnung": "Herstellung von Stahlrohren, Rohrform-, Rohrverschluss- und Rohrverbindungsstücken aus Stahl"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 24.2,
+        "nace_erweiterter_code": "C 24.20",
+        "bezeichnung": "Herstellung von Stahlrohren, Rohrform-, Rohrverschluss- und Rohrverbindungsstücken aus Stahl"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 24.3,
+        "nace_erweiterter_code": "C 24.3",
+        "bezeichnung": "Sonstige erste Bearbeitung von Eisen und Stahl"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 24.31,
+        "nace_erweiterter_code": "C 24.31",
+        "bezeichnung": "Herstellung von Blankstahl"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 24.32,
+        "nace_erweiterter_code": "C 24.32",
+        "bezeichnung": "Herstellung von Kaltband mit einer Breite von weniger als 600 mm"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 24.33,
+        "nace_erweiterter_code": "C 24.33",
+        "bezeichnung": "Herstellung von Kaltprofilen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 24.34,
+        "nace_erweiterter_code": "C 24.34",
+        "bezeichnung": "Herstellung von kaltgezogenem Draht"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 24.4,
+        "nace_erweiterter_code": "C 24.4",
+        "bezeichnung": "Erzeugung und erste Bearbeitung von NE-Metallen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 24.41,
+        "nace_erweiterter_code": "C 24.41",
+        "bezeichnung": "Erzeugung und erste Bearbeitung von Edelmetallen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 24.42,
+        "nace_erweiterter_code": "C 24.42",
+        "bezeichnung": "Erzeugung und erste Bearbeitung von Aluminium"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 24.43,
+        "nace_erweiterter_code": "C 24.43",
+        "bezeichnung": "Erzeugung und erste Bearbeitung von Blei, Zink und Zinn"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 24.44,
+        "nace_erweiterter_code": "C 24.44",
+        "bezeichnung": "Erzeugung und erste Bearbeitung von Kupfer"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 24.45,
+        "nace_erweiterter_code": "C 24.45",
+        "bezeichnung": "Erzeugung und erste Bearbeitung von sonstigen NE-Metallen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 24.46,
+        "nace_erweiterter_code": "C 24.46",
+        "bezeichnung": "Aufbereitung von Kernbrennstoffen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 24.5,
+        "nace_erweiterter_code": "C 24.5",
+        "bezeichnung": "Gießereien"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 24.51,
+        "nace_erweiterter_code": "C 24.51",
+        "bezeichnung": "Eisengießereien"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 24.52,
+        "nace_erweiterter_code": "C 24.52",
+        "bezeichnung": "Stahlgießereien"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 24.53,
+        "nace_erweiterter_code": "C 24.53",
+        "bezeichnung": "Leichtmetallgießereien"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 24.54,
+        "nace_erweiterter_code": "C 24.54",
+        "bezeichnung": "Buntmetallgießereien"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25,
+        "nace_erweiterter_code": "C 25",
+        "bezeichnung": "Herstellung von Metallerzeugnissen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.1,
+        "nace_erweiterter_code": "C 25.1",
+        "bezeichnung": "Stahl- und Leichtmetallbau"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.11,
+        "nace_erweiterter_code": "C 25.11",
+        "bezeichnung": "Herstellung von Metallkonstruktionen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.12,
+        "nace_erweiterter_code": "C 25.12",
+        "bezeichnung": "Herstellung von Ausbauelementen aus Metall"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.2,
+        "nace_erweiterter_code": "C 25.2",
+        "bezeichnung": "Herstellung von Metalltanks und -behältern; Herstellung von Heizkörpern und -kesseln für Zentralheizungen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.21,
+        "nace_erweiterter_code": "C 25.21",
+        "bezeichnung": "Herstellung von Heizkörpern und –kesseln für Zentralheizungen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.29,
+        "nace_erweiterter_code": "C 25.29",
+        "bezeichnung": "Herstellung von Sammelbehältern, Tanks u.ä. Behältern aus Metall"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.3,
+        "nace_erweiterter_code": "C 25.3",
+        "bezeichnung": "Herstellung von Dampfkesseln (ohne Zentralheizungskessel)"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.3,
+        "nace_erweiterter_code": "C 25.30",
+        "bezeichnung": "Herstellung von Dampfkesseln (ohne Zentralheizungskessel)"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.4,
+        "nace_erweiterter_code": "C 25.4",
+        "bezeichnung": "Herstellung von Waffen und Munition"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.4,
+        "nace_erweiterter_code": "C 25.40",
+        "bezeichnung": "Herstellung von Waffen und Munition"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.5,
+        "nace_erweiterter_code": "C 25.5",
+        "bezeichnung": "Herstellung von Schmiede-, Press-, Zieh- und Stanzteilen, gewalzten Ringen und pulvermetallurgischen Erzeugnissen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.5,
+        "nace_erweiterter_code": "C 25.50",
+        "bezeichnung": "Herstellung von Schmiede-, Press-, Zieh- und Stanzteilen, gewalzten Ringen und pulvermetallurgischen Erzeugnissen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.6,
+        "nace_erweiterter_code": "C 25.6",
+        "bezeichnung": "Oberflächenveredlung und Wärmebehandlung; Mechanik a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.61,
+        "nace_erweiterter_code": "C 25.61",
+        "bezeichnung": "Oberflächenveredlung und Wärmebehandlung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.62,
+        "nace_erweiterter_code": "C 25.62",
+        "bezeichnung": "Mechanik a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.7,
+        "nace_erweiterter_code": "C 25.7",
+        "bezeichnung": "Herstellung von Schneidwaren, Werkzeugen, Schlössern und Beschlägen aus unedlen Metallen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.71,
+        "nace_erweiterter_code": "C 25.71",
+        "bezeichnung": "Herstellung von Schneidwaren und Bestecken aus unedlen Metallen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.72,
+        "nace_erweiterter_code": "C 25.72",
+        "bezeichnung": "Herstellung von Schlössern und Beschlägen aus unedlen Metallen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.73,
+        "nace_erweiterter_code": "C 25.73",
+        "bezeichnung": "Herstellung von Werkzeugen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.9,
+        "nace_erweiterter_code": "C 25.9",
+        "bezeichnung": "Herstellung von sonstigen Metallwaren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.91,
+        "nace_erweiterter_code": "C 25.91",
+        "bezeichnung": "Herstellung von Fässern, Trommeln, Dosen, Eimern u.ä. Behältern aus Metall"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.92,
+        "nace_erweiterter_code": "C 25.92",
+        "bezeichnung": "Herstellung von Verpackungen und Verschlüssen aus Eisen, Stahl und NE-Metall"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.93,
+        "nace_erweiterter_code": "C 25.93",
+        "bezeichnung": "Herstellung von Drahtwaren, Ketten und Federn"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.94,
+        "nace_erweiterter_code": "C 25.94",
+        "bezeichnung": "Herstellung von Schrauben und Nieten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 25.99,
+        "nace_erweiterter_code": "C 25.99",
+        "bezeichnung": "Herstellung von sonstigen Metallwaren a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 26,
+        "nace_erweiterter_code": "C 26",
+        "bezeichnung": "Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 26.1,
+        "nace_erweiterter_code": "C 26.1",
+        "bezeichnung": "Herstellung von elektronischen Bauelementen und Leiterplatten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 26.11,
+        "nace_erweiterter_code": "C 26.11",
+        "bezeichnung": "Herstellung von elektronischen Bauelementen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 26.12,
+        "nace_erweiterter_code": "C 26.12",
+        "bezeichnung": "Herstellung von bestückten Leiterplatten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 26.2,
+        "nace_erweiterter_code": "C 26.2",
+        "bezeichnung": "Herstellung von Datenverarbeitungsgeräten und peripheren Geräten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 26.2,
+        "nace_erweiterter_code": "C 26.20",
+        "bezeichnung": "Herstellung von Datenverarbeitungsgeräten und peripheren Geräten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 26.3,
+        "nace_erweiterter_code": "C 26.3",
+        "bezeichnung": "Herstellung von Geräten und Einrichtungen der Telekommunikationstechnik"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 26.3,
+        "nace_erweiterter_code": "C 26.30",
+        "bezeichnung": "Herstellung von Geräten und Einrichtungen der Telekommunikationstechnik"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 26.4,
+        "nace_erweiterter_code": "C 26.4",
+        "bezeichnung": "Herstellung von Geräten der Unterhaltungselektronik"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 26.4,
+        "nace_erweiterter_code": "C 26.40",
+        "bezeichnung": "Herstellung von Geräten der Unterhaltungselektronik"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 26.5,
+        "nace_erweiterter_code": "C 26.5",
+        "bezeichnung": "Herstellung von Mess-, Kontroll-, Navigations- u. ä. Instrumenten und Vorrichtungen; Herstellung von Uhren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 26.51,
+        "nace_erweiterter_code": "C 26.51",
+        "bezeichnung": "Herstellung von Mess-, Kontroll-, Navigations- u.ä. Instrumenten und -vorrichtungen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 26.52,
+        "nace_erweiterter_code": "C 26.52",
+        "bezeichnung": "Herstellung von Uhren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 26.6,
+        "nace_erweiterter_code": "C 26.6",
+        "bezeichnung": "Herstellung von Bestrahlungs- und Elektrotherapiegeräten und elektromedizinischen Geräten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 26.6,
+        "nace_erweiterter_code": "C 26.60",
+        "bezeichnung": "Herstellung von Bestrahlungs- und Elektrotherapiegeräten und elektromedizinischen Geräten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 26.7,
+        "nace_erweiterter_code": "C 26.7",
+        "bezeichnung": "Herstellung von optischen und fotografischen Instrumenten und Geräten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 26.7,
+        "nace_erweiterter_code": "C 26.70",
+        "bezeichnung": "Herstellung von optischen und fotografischen Instrumenten und Geräten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 26.8,
+        "nace_erweiterter_code": "C 26.8",
+        "bezeichnung": "Herstellung von magnetischen und optischen Datenträgern"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 26.8,
+        "nace_erweiterter_code": "C 26.80",
+        "bezeichnung": "Herstellung von magnetischen und optischen Datenträgern"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 27,
+        "nace_erweiterter_code": "C 27",
+        "bezeichnung": "Herstellung von elektrischen Ausrüstungen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 27.1,
+        "nace_erweiterter_code": "C 27.1",
+        "bezeichnung": "Herstellung von Elektromotoren, Generatoren, Transformatoren, Elektrizitätsverteilungs- und -schalteinrichtungen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 27.11,
+        "nace_erweiterter_code": "C 27.11",
+        "bezeichnung": "Herstellung von Elektromotoren, Generatoren und Transformatoren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 27.12,
+        "nace_erweiterter_code": "C 27.12",
+        "bezeichnung": "Herstellung von Elektrizitätsverteilungs- und -schalteinrichtungen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 27.2,
+        "nace_erweiterter_code": "C 27.2",
+        "bezeichnung": "Herstellung von Batterien und Akkumulatoren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 27.2,
+        "nace_erweiterter_code": "C 27.20",
+        "bezeichnung": "Herstellung von Batterien und Akkumulatoren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 27.3,
+        "nace_erweiterter_code": "C 27.3",
+        "bezeichnung": "Herstellung von Kabeln und elektrischem Installationsmaterial"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 27.31,
+        "nace_erweiterter_code": "C 27.31",
+        "bezeichnung": "Herstellung von Glasfaserkabeln"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 27.32,
+        "nace_erweiterter_code": "C 27.32",
+        "bezeichnung": "Herstellung von sonstigen elektronischen und elektrischen Drähten und Kabeln"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 27.33,
+        "nace_erweiterter_code": "C 27.33",
+        "bezeichnung": "Herstellung von elektrischem Installationsmaterial"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 27.4,
+        "nace_erweiterter_code": "C 27.4",
+        "bezeichnung": "Herstellung von elektrischen Lampen und Leuchten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 27.4,
+        "nace_erweiterter_code": "C 27.40",
+        "bezeichnung": "Herstellung von elektrischen Lampen und Leuchten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 27.5,
+        "nace_erweiterter_code": "C 27.5",
+        "bezeichnung": "Herstellung von Haushaltsgeräten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 27.51,
+        "nace_erweiterter_code": "C 27.51",
+        "bezeichnung": "Herstellung von elektrischen Haushaltsgeräten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 27.52,
+        "nace_erweiterter_code": "C 27.52",
+        "bezeichnung": "Herstellung von nichtelektrischen Haushaltsgeräten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 27.9,
+        "nace_erweiterter_code": "C 27.9",
+        "bezeichnung": "Herstellung von sonstigen elektrischen Ausrüstungen und Geräten a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 27.9,
+        "nace_erweiterter_code": "C 27.90",
+        "bezeichnung": "Herstellung von sonstigen elektrischen Ausrüstungen und Geräten a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28,
+        "nace_erweiterter_code": "C 28",
+        "bezeichnung": "Maschinenbau"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.1,
+        "nace_erweiterter_code": "C 28.1",
+        "bezeichnung": "Herstellung von nicht wirtschaftszweigspezifischen Maschinen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.11,
+        "nace_erweiterter_code": "C 28.11",
+        "bezeichnung": "Herstellung von Verbrennungsmotoren und Turbinen (ohne Motoren für Luft- und Straßenfahrzeuge)"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.12,
+        "nace_erweiterter_code": "C 28.12",
+        "bezeichnung": "Herstellung von hydraulischen und pneumatischen Komponenten und Systemen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.13,
+        "nace_erweiterter_code": "C 28.13",
+        "bezeichnung": "Herstellung von Pumpen und Kompressoren a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.14,
+        "nace_erweiterter_code": "C 28.14",
+        "bezeichnung": "Herstellung von Armaturen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.15,
+        "nace_erweiterter_code": "C 28.15",
+        "bezeichnung": "Herstellung von Lagern, Getrieben, Zahnrädern und Antriebselementen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.2,
+        "nace_erweiterter_code": "C 28.2",
+        "bezeichnung": "Herstellung von sonstigen nicht wirtschaftszweigspezifischen Maschinen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.21,
+        "nace_erweiterter_code": "C 28.21",
+        "bezeichnung": "Herstellung von Öfen und Brennern"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.22,
+        "nace_erweiterter_code": "C 28.22",
+        "bezeichnung": "Herstellung von Hebezeugen und Fördermitteln"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.23,
+        "nace_erweiterter_code": "C 28.23",
+        "bezeichnung": "Herstellung von Büromaschinen (ohne Datenverarbeitungsgeräte und periphere Geräte)"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.24,
+        "nace_erweiterter_code": "C 28.24",
+        "bezeichnung": "Herstellung von handgeführten Werkzeugen mit Motorantrieb"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.25,
+        "nace_erweiterter_code": "C 28.25",
+        "bezeichnung": "Herstellung von kälte- und lufttechnischen Erzeugnissen, nicht für den Haushalt"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.29,
+        "nace_erweiterter_code": "C 28.29",
+        "bezeichnung": "Herstellung von sonstigen nicht wirtschaftszweigspezifischen Maschinen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.3,
+        "nace_erweiterter_code": "C 28.3",
+        "bezeichnung": "Herstellung von land- und forstwirtschaftlichen Maschinen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.3,
+        "nace_erweiterter_code": "C 28.30",
+        "bezeichnung": "Herstellung von land- und forstwirtschaftlichen Maschinen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.4,
+        "nace_erweiterter_code": "C 28.4",
+        "bezeichnung": "Herstellung von Werkzeugmaschinen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.41,
+        "nace_erweiterter_code": "C 28.41",
+        "bezeichnung": "Herstellung von Werkzeugmaschinen für die Metallbearbeitung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.49,
+        "nace_erweiterter_code": "C 28.49",
+        "bezeichnung": "Herstellung von sonstigen Werkzeugmaschinen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.9,
+        "nace_erweiterter_code": "C 28.9",
+        "bezeichnung": "Herstellung von Maschinen für sonstige bestimmte Wirtschaftszweige"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.91,
+        "nace_erweiterter_code": "C 28.91",
+        "bezeichnung": "Herstellung von Maschinen für die Metallerzeugung, von Walzwerkseinrichtungen und Gießmaschinen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.92,
+        "nace_erweiterter_code": "C 28.92",
+        "bezeichnung": "Herstellung von Bergwerks-, Bau- und Baustoffmaschinen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.93,
+        "nace_erweiterter_code": "C 28.93",
+        "bezeichnung": "Herstellung von Maschinen für die Nahrungs- und Genussmittelerzeugung und die Tabakverarbeitung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.94,
+        "nace_erweiterter_code": "C 28.94",
+        "bezeichnung": "Herstellung von Maschinen für die Textil- und Bekleidungsherstellung und die Lederverarbeitung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.95,
+        "nace_erweiterter_code": "C 28.95",
+        "bezeichnung": "Herstellung von Maschinen für die Papiererzeugung und -verarbeitung"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.96,
+        "nace_erweiterter_code": "C 28.96",
+        "bezeichnung": "Herstellung von Maschinen für die Verarbeitung von Kunststoffen und Kautschuk"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 28.99,
+        "nace_erweiterter_code": "C 28.99",
+        "bezeichnung": "Herstellung von Maschinen für sonstige bestimmte Wirtschaftszweige a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 29,
+        "nace_erweiterter_code": "C 29",
+        "bezeichnung": "Herstellung von Kraftwagen und Kraftwagenteilen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 29.1,
+        "nace_erweiterter_code": "C 29.1",
+        "bezeichnung": "Herstellung von Kraftwagen und Kraftwagenmotoren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 29.1,
+        "nace_erweiterter_code": "C 29.10",
+        "bezeichnung": "Herstellung von Kraftwagen und Kraftwagenmotoren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 29.2,
+        "nace_erweiterter_code": "C 29.2",
+        "bezeichnung": "Herstellung von Karosserien, Aufbauten und Anhängern"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 29.2,
+        "nace_erweiterter_code": "C 29.20",
+        "bezeichnung": "Herstellung von Karosserien, Aufbauten und Anhängern"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 29.3,
+        "nace_erweiterter_code": "C 29.3",
+        "bezeichnung": "Herstellung von Teilen und Zubehör für Kraftwagen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 29.31,
+        "nace_erweiterter_code": "C 29.31",
+        "bezeichnung": "Herstellung elektrischer und elektronischer Ausrüstungsgegenstände für Kraftwagen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 29.32,
+        "nace_erweiterter_code": "C 29.32",
+        "bezeichnung": "Herstellung von sonstigen Teilen und sonstigem Zubehör für Kraftwagen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 30,
+        "nace_erweiterter_code": "C 30",
+        "bezeichnung": "Sonstiger Fahrzeugbau"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 30.1,
+        "nace_erweiterter_code": "C 30.1",
+        "bezeichnung": "Schiff- und Bootsbau"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 30.11,
+        "nace_erweiterter_code": "C 30.11",
+        "bezeichnung": "Schiffbau (ohne Boots- und Yachtbau)"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 30.12,
+        "nace_erweiterter_code": "C 30.12",
+        "bezeichnung": "Boots- und Yachtbau"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 30.2,
+        "nace_erweiterter_code": "C 30.2",
+        "bezeichnung": "Schienenfahrzeugbau"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 30.2,
+        "nace_erweiterter_code": "C 30.20",
+        "bezeichnung": "Schienenfahrzeugbau"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 30.3,
+        "nace_erweiterter_code": "C 30.3",
+        "bezeichnung": "Luft- und Raumfahrzeugbau"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 30.3,
+        "nace_erweiterter_code": "C 30.30",
+        "bezeichnung": "Luft- und Raumfahrzeugbau"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 30.4,
+        "nace_erweiterter_code": "C 30.4",
+        "bezeichnung": "Herstellung von militärischen Kampffahrzeugen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 30.4,
+        "nace_erweiterter_code": "C 30.40",
+        "bezeichnung": "Herstellung von militärischen Kampffahrzeugen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 30.9,
+        "nace_erweiterter_code": "C 30.9",
+        "bezeichnung": "Herstellung von Fahrzeugen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 30.91,
+        "nace_erweiterter_code": "C 30.91",
+        "bezeichnung": "Herstellung von Krafträdern"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 30.92,
+        "nace_erweiterter_code": "C 30.92",
+        "bezeichnung": "Herstellung von Fahrrädern sowie von Behindertenfahrzeugen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 30.99,
+        "nace_erweiterter_code": "C 30.99",
+        "bezeichnung": "Herstellung von sonstigen Fahrzeugen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 31,
+        "nace_erweiterter_code": "C 31",
+        "bezeichnung": "Herstellung von Möbeln"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 31,
+        "nace_erweiterter_code": "C 31.0",
+        "bezeichnung": "Herstellung von Möbeln"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 31.01,
+        "nace_erweiterter_code": "C 31.01",
+        "bezeichnung": "Herstellung von Büro- und Ladenmöbeln"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 31.02,
+        "nace_erweiterter_code": "C 31.02",
+        "bezeichnung": "Herstellung von Küchenmöbeln"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 31.03,
+        "nace_erweiterter_code": "C 31.03",
+        "bezeichnung": "Herstellung von Matratzen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 31.09,
+        "nace_erweiterter_code": "C 31.09",
+        "bezeichnung": "Herstellung von sonstigen Möbeln"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 32,
+        "nace_erweiterter_code": "C 32",
+        "bezeichnung": "Herstellung von sonstigen Waren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 32.1,
+        "nace_erweiterter_code": "C 32.1",
+        "bezeichnung": "Herstellung von Münzen, Schmuck und ähnlichen Erzeugnissen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 32.11,
+        "nace_erweiterter_code": "C 32.11",
+        "bezeichnung": "Herstellung von Münzen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 32.12,
+        "nace_erweiterter_code": "C 32.12",
+        "bezeichnung": "Herstellung von Schmuck, Gold- und Silberschmiedewaren (ohne Fantasieschmuck)"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 32.13,
+        "nace_erweiterter_code": "C 32.13",
+        "bezeichnung": "Herstellung von Fantasieschmuck"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 32.2,
+        "nace_erweiterter_code": "C 32.2",
+        "bezeichnung": "Herstellung von Musikinstrumenten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 32.2,
+        "nace_erweiterter_code": "C 32.20",
+        "bezeichnung": "Herstellung von Musikinstrumenten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 32.3,
+        "nace_erweiterter_code": "C 32.3",
+        "bezeichnung": "Herstellung von Sportgeräten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 32.3,
+        "nace_erweiterter_code": "C 32.30",
+        "bezeichnung": "Herstellung von Sportgeräten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 32.4,
+        "nace_erweiterter_code": "C 32.4",
+        "bezeichnung": "Herstellung von Spielwaren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 32.4,
+        "nace_erweiterter_code": "C 32.40",
+        "bezeichnung": "Herstellung von Spielwaren"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 32.5,
+        "nace_erweiterter_code": "C 32.5",
+        "bezeichnung": "Herstellung von medizinischen und zahnmedizinischen Apparaten und Materialien"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 32.5,
+        "nace_erweiterter_code": "C 32.50",
+        "bezeichnung": "Herstellung von medizinischen und zahnmedizinischen Apparaten und Materialien"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 32.9,
+        "nace_erweiterter_code": "C 32.9",
+        "bezeichnung": "Herstellung von Erzeugnissen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 32.91,
+        "nace_erweiterter_code": "C 32.91",
+        "bezeichnung": "Herstellung von Besen und Bürsten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 32.99,
+        "nace_erweiterter_code": "C 32.99",
+        "bezeichnung": "Herstellung von sonstigen Erzeugnissen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 33,
+        "nace_erweiterter_code": "C 33",
+        "bezeichnung": "Reparatur und Installation von Maschinen und Ausrüstungen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 33.1,
+        "nace_erweiterter_code": "C 33.1",
+        "bezeichnung": "Reparatur von Metallerzeugnissen, Maschinen und Ausrüstungen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 33.11,
+        "nace_erweiterter_code": "C 33.11",
+        "bezeichnung": "Reparatur von Metallerzeugnissen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 33.12,
+        "nace_erweiterter_code": "C 33.12",
+        "bezeichnung": "Reparatur von Maschinen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 33.13,
+        "nace_erweiterter_code": "C 33.13",
+        "bezeichnung": "Reparatur von elektronischen und optischen Geräten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 33.14,
+        "nace_erweiterter_code": "C 33.14",
+        "bezeichnung": "Reparatur von elektrischen Ausrüstungen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 33.15,
+        "nace_erweiterter_code": "C 33.15",
+        "bezeichnung": "Reparatur und Instandhaltung von Schiffen, Booten und Yachten"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 33.16,
+        "nace_erweiterter_code": "C 33.16",
+        "bezeichnung": "Reparatur und Instandhaltung von Luft- und Raumfahrzeugen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 33.17,
+        "nace_erweiterter_code": "C 33.17",
+        "bezeichnung": "Reparatur und Instandhaltung von Fahrzeugen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 33.19,
+        "nace_erweiterter_code": "C 33.19",
+        "bezeichnung": "Reparatur von sonstigen Ausrüstungen"
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 33.2,
+        "nace_erweiterter_code": "C 33.2",
+        "bezeichnung": "Installation von Maschinen und Ausrüstungen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "C",
+        "nace_code": 33.2,
+        "nace_erweiterter_code": "C 33.20",
+        "bezeichnung": "Installation von Maschinen und Ausrüstungen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "D",
+        "nace_code": "",
+        "nace_erweiterter_code": "D",
+        "bezeichnung": "Energieversorgung"
+    },
+    {
+        "nace_abschnittscode": "D",
+        "nace_code": 35,
+        "nace_erweiterter_code": "D 35",
+        "bezeichnung": "Energieversorgung"
+    },
+    {
+        "nace_abschnittscode": "D",
+        "nace_code": 35.1,
+        "nace_erweiterter_code": "D 35.1",
+        "bezeichnung": "Elektrizitätsversorgung"
+    },
+    {
+        "nace_abschnittscode": "D",
+        "nace_code": 35.11,
+        "nace_erweiterter_code": "D 35.11",
+        "bezeichnung": "Elektrizitätserzeugung"
+    },
+    {
+        "nace_abschnittscode": "D",
+        "nace_code": 35.12,
+        "nace_erweiterter_code": "D 35.12",
+        "bezeichnung": "Elektrizitätsübertragung"
+    },
+    {
+        "nace_abschnittscode": "D",
+        "nace_code": 35.13,
+        "nace_erweiterter_code": "D 35.13",
+        "bezeichnung": "Elektrizitätsverteilung"
+    },
+    {
+        "nace_abschnittscode": "D",
+        "nace_code": 35.14,
+        "nace_erweiterter_code": "D 35.14",
+        "bezeichnung": "Elektrizitätshandel"
+    },
+    {
+        "nace_abschnittscode": "D",
+        "nace_code": 35.2,
+        "nace_erweiterter_code": "D 35.2",
+        "bezeichnung": "Gasversorgung"
+    },
+    {
+        "nace_abschnittscode": "D",
+        "nace_code": 35.21,
+        "nace_erweiterter_code": "D 35.21",
+        "bezeichnung": "Gaserzeugung"
+    },
+    {
+        "nace_abschnittscode": "D",
+        "nace_code": 35.22,
+        "nace_erweiterter_code": "D 35.22",
+        "bezeichnung": "Gasverteilung durch Rohrleitungen"
+    },
+    {
+        "nace_abschnittscode": "D",
+        "nace_code": 35.23,
+        "nace_erweiterter_code": "D 35.23",
+        "bezeichnung": "Gashandel durch Rohrleitungen"
+    },
+    {
+        "nace_abschnittscode": "D",
+        "nace_code": 35.3,
+        "nace_erweiterter_code": "D 35.3",
+        "bezeichnung": "Wärme- und Kälteversorgung"
+    },
+    {
+        "nace_abschnittscode": "D",
+        "nace_code": 35.3,
+        "nace_erweiterter_code": "D 35.30",
+        "bezeichnung": "Wärme- und Kälteversorgung"
+    },
+    {
+        "nace_abschnittscode": "E",
+        "nace_code": "",
+        "nace_erweiterter_code": "E",
+        "bezeichnung": "Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen"
+    },
+    {
+        "nace_abschnittscode": "E",
+        "nace_code": 36,
+        "nace_erweiterter_code": "E 36",
+        "bezeichnung": "Wasserversorgung"
+    },
+    {
+        "nace_abschnittscode": "E",
+        "nace_code": 36,
+        "nace_erweiterter_code": "E 36.0",
+        "bezeichnung": "Wasserversorgung"
+    },
+    {
+        "nace_abschnittscode": "E",
+        "nace_code": 36,
+        "nace_erweiterter_code": "E 36.00",
+        "bezeichnung": "Wasserversorgung"
+    },
+    {
+        "nace_abschnittscode": "E",
+        "nace_code": 37,
+        "nace_erweiterter_code": "E 37",
+        "bezeichnung": "Abwasserentsorgung"
+    },
+    {
+        "nace_abschnittscode": "E",
+        "nace_code": 37,
+        "nace_erweiterter_code": "E 37.0",
+        "bezeichnung": "Abwasserentsorgung"
+    },
+    {
+        "nace_abschnittscode": "E",
+        "nace_code": 37,
+        "nace_erweiterter_code": "E 37.00",
+        "bezeichnung": "Abwasserentsorgung"
+    },
+    {
+        "nace_abschnittscode": "E",
+        "nace_code": 38,
+        "nace_erweiterter_code": "E 38",
+        "bezeichnung": "Sammlung, Behandlung und Beseitigung von Abfällen; Rückgewinnung"
+    },
+    {
+        "nace_abschnittscode": "E",
+        "nace_code": 38.1,
+        "nace_erweiterter_code": "E 38.1",
+        "bezeichnung": "Sammlung von Abfällen"
+    },
+    {
+        "nace_abschnittscode": "E",
+        "nace_code": 38.11,
+        "nace_erweiterter_code": "E 38.11",
+        "bezeichnung": "Sammlung nicht gefährlicher Abfälle"
+    },
+    {
+        "nace_abschnittscode": "E",
+        "nace_code": 38.12,
+        "nace_erweiterter_code": "E 38.12",
+        "bezeichnung": "Sammlung gefährlicher Abfälle"
+    },
+    {
+        "nace_abschnittscode": "E",
+        "nace_code": 38.2,
+        "nace_erweiterter_code": "E 38.2",
+        "bezeichnung": "Abfallbehandlung und -beseitigung"
+    },
+    {
+        "nace_abschnittscode": "E",
+        "nace_code": 38.21,
+        "nace_erweiterter_code": "E 38.21",
+        "bezeichnung": "Behandlung und Beseitigung nicht gefährlicher Abfälle"
+    },
+    {
+        "nace_abschnittscode": "E",
+        "nace_code": 38.22,
+        "nace_erweiterter_code": "E 38.22",
+        "bezeichnung": "Behandlung und Beseitigung gefährlicher Abfälle"
+    },
+    {
+        "nace_abschnittscode": "E",
+        "nace_code": 38.3,
+        "nace_erweiterter_code": "E 38.3",
+        "bezeichnung": "Rückgewinnung"
+    },
+    {
+        "nace_abschnittscode": "E",
+        "nace_code": 38.31,
+        "nace_erweiterter_code": "E 38.31",
+        "bezeichnung": "Zerlegen von Schiffs- und Fahrzeugwracks und anderen Altwaren"
+    },
+    {
+        "nace_abschnittscode": "E",
+        "nace_code": 38.32,
+        "nace_erweiterter_code": "E 38.32",
+        "bezeichnung": "Rückgewinnung sortierter Werkstoffe"
+    },
+    {
+        "nace_abschnittscode": "E",
+        "nace_code": 39,
+        "nace_erweiterter_code": "E 39",
+        "bezeichnung": "Beseitigung von Umweltverschmutzungen und sonstige Entsorgung"
+    },
+    {
+        "nace_abschnittscode": "E",
+        "nace_code": 39,
+        "nace_erweiterter_code": "E 39.0",
+        "bezeichnung": "Beseitigung von Umweltverschmutzungen und sonstige Entsorgung"
+    },
+    {
+        "nace_abschnittscode": "E",
+        "nace_code": 39,
+        "nace_erweiterter_code": "E 39.00",
+        "bezeichnung": "Beseitigung von Umweltverschmutzungen und sonstige Entsorgung"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": "",
+        "nace_erweiterter_code": "F",
+        "bezeichnung": "Bau"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 41,
+        "nace_erweiterter_code": "F 41",
+        "bezeichnung": "Hochbau"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 41.1,
+        "nace_erweiterter_code": "F 41.1",
+        "bezeichnung": "Erschließung von Grundstücken; Bauträger"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 41.1,
+        "nace_erweiterter_code": "F 41.10",
+        "bezeichnung": "Erschließung von Grundstücken; Bauträger"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 41.2,
+        "nace_erweiterter_code": "F 41.2",
+        "bezeichnung": "Bau von Gebäuden"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 41.2,
+        "nace_erweiterter_code": "F 41.20",
+        "bezeichnung": "Bau von Gebäuden"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 42,
+        "nace_erweiterter_code": "F 42",
+        "bezeichnung": "Tiefbau"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 42.1,
+        "nace_erweiterter_code": "F 42.1",
+        "bezeichnung": "Bau von Straßen und Bahnverkehrsstrecken"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 42.11,
+        "nace_erweiterter_code": "F 42.11",
+        "bezeichnung": "Bau von Straßen"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 42.12,
+        "nace_erweiterter_code": "F 42.12",
+        "bezeichnung": "Bau von Bahnverkehrsstrecken"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 42.13,
+        "nace_erweiterter_code": "F 42.13",
+        "bezeichnung": "Brücken- und Tunnelbau"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 42.2,
+        "nace_erweiterter_code": "F 42.2",
+        "bezeichnung": "Leitungstiefbau und Kläranlagenbau"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 42.21,
+        "nace_erweiterter_code": "F 42.21",
+        "bezeichnung": "Rohrleitungstiefbau, Brunnenbau und Kläranlagenbau"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 42.22,
+        "nace_erweiterter_code": "F 42.22",
+        "bezeichnung": "Kabelnetzleitungstiefbau"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 42.9,
+        "nace_erweiterter_code": "F 42.9",
+        "bezeichnung": "Sonstiger Tiefbau"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 42.91,
+        "nace_erweiterter_code": "F 42.91",
+        "bezeichnung": "Wasserbau"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 42.99,
+        "nace_erweiterter_code": "F 42.99",
+        "bezeichnung": "Sonstiger Tiefbau a.n.g."
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 43,
+        "nace_erweiterter_code": "F 43",
+        "bezeichnung": "Vorbereitende Baustellenarbeiten, Bauinstallation und sonstiges Ausbaugewerbe"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 43.1,
+        "nace_erweiterter_code": "F 43.1",
+        "bezeichnung": "Abbrucharbeiten und vorbereitende Baustellenarbeiten"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 43.11,
+        "nace_erweiterter_code": "F 43.11",
+        "bezeichnung": "Abbrucharbeiten"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 43.12,
+        "nace_erweiterter_code": "F 43.12",
+        "bezeichnung": "Vorbereitende Baustellenarbeiten"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 43.13,
+        "nace_erweiterter_code": "F 43.13",
+        "bezeichnung": "Test- und Suchbohrung"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 43.2,
+        "nace_erweiterter_code": "F 43.2",
+        "bezeichnung": "Bauinstallation"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 43.21,
+        "nace_erweiterter_code": "F 43.21",
+        "bezeichnung": "Elektroinstallation"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 43.22,
+        "nace_erweiterter_code": "F 43.22",
+        "bezeichnung": "Gas-, Wasser-, Heizungs- und Lüftungs- und Klimaanlageninstallation"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 43.29,
+        "nace_erweiterter_code": "F 43.29",
+        "bezeichnung": "Sonstige Bauinstallation"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 43.3,
+        "nace_erweiterter_code": "F 43.3",
+        "bezeichnung": "Sonstiger Ausbau"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 43.31,
+        "nace_erweiterter_code": "F 43.31",
+        "bezeichnung": "Anbringen von Stuckaturen, Gipserei und Verputzerei"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 43.32,
+        "nace_erweiterter_code": "F 43.32",
+        "bezeichnung": "Bautischlerei und -schlosserei"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 43.33,
+        "nace_erweiterter_code": "F 43.33",
+        "bezeichnung": "Fußboden-, Fliesen- und Plattenlegerei, Tapeziererei"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 43.34,
+        "nace_erweiterter_code": "F 43.34",
+        "bezeichnung": "Malerei und Glaserei"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 43.39,
+        "nace_erweiterter_code": "F 43.39",
+        "bezeichnung": "Sonstiger Ausbau a.n.g."
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 43.9,
+        "nace_erweiterter_code": "F 43.9",
+        "bezeichnung": "Sonstige spezialisierte Bautätigkeiten"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 43.91,
+        "nace_erweiterter_code": "F 43.91",
+        "bezeichnung": "Dachdeckerei und Zimmerei"
+    },
+    {
+        "nace_abschnittscode": "F",
+        "nace_code": 43.99,
+        "nace_erweiterter_code": "F 43.99",
+        "bezeichnung": "Sonstige spezialisierte Bautätigkeiten a.n.g."
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": "",
+        "nace_erweiterter_code": "G",
+        "bezeichnung": "Handel; Instandhaltung und Reparatur von Kraftfahrzeugen"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 45,
+        "nace_erweiterter_code": "G 45",
+        "bezeichnung": "Handel mit Kraftfahrzeugen; Instandhaltung und Reparatur von Kraftfahrzeugen"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 45.1,
+        "nace_erweiterter_code": "G 45.1",
+        "bezeichnung": "Handel mit Kraftwagen"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 45.11,
+        "nace_erweiterter_code": "G 45.11",
+        "bezeichnung": "Handel mit Kraftwagen mit einem Gesamtgewicht von 3,5 t oder weniger"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 45.19,
+        "nace_erweiterter_code": "G 45.19",
+        "bezeichnung": "Handel mit Kraftwagen mit einem Gesamtgewicht von mehr als 3,5 t"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 45.2,
+        "nace_erweiterter_code": "G 45.2",
+        "bezeichnung": "Instandhaltung und Reparatur von Kraftwagen"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 45.2,
+        "nace_erweiterter_code": "G 45.20",
+        "bezeichnung": "Instandhaltung und Reparatur von Kraftwagen"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 45.3,
+        "nace_erweiterter_code": "G 45.3",
+        "bezeichnung": "Handel mit Kraftwagenteilen und -zubehör"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 45.31,
+        "nace_erweiterter_code": "G 45.31",
+        "bezeichnung": "Großhandel mit Kraftwagenteilen und -zubehör"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 45.32,
+        "nace_erweiterter_code": "G 45.32",
+        "bezeichnung": "Einzelhandel mit Kraftwagenteilen und -zubehör"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 45.4,
+        "nace_erweiterter_code": "G 45.4",
+        "bezeichnung": "Handel mit Krafträdern, Kraftradteilen und -zubehör; Instandhaltung und Reparatur von Krafträdern"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 45.4,
+        "nace_erweiterter_code": "G 45.40",
+        "bezeichnung": "Handel mit Krafträdern, Kraftradteilen und -zubehör; Instandhaltung und Reparatur von Krafträdern"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46,
+        "nace_erweiterter_code": "G 46",
+        "bezeichnung": "Großhandel (ohne Handel mit Kraftfahrzeugen)"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.1,
+        "nace_erweiterter_code": "G 46.1",
+        "bezeichnung": "Handelsvermittlung"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.11,
+        "nace_erweiterter_code": "G 46.11",
+        "bezeichnung": "Handelsvermittlung von landwirtschaftlichen Grundstoffen, lebenden Tieren, textilen Rohstoffen und Halbwaren"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.12,
+        "nace_erweiterter_code": "G 46.12",
+        "bezeichnung": "Handelsvermittlung von Brennstoffen, Erzen, Metallen und technischen Chemikalien"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.13,
+        "nace_erweiterter_code": "G 46.13",
+        "bezeichnung": "Handelsvermittlung von Holz, Baustoffen und Anstrichmitteln"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.14,
+        "nace_erweiterter_code": "G 46.14",
+        "bezeichnung": "Handelsvermittlung von Maschinen, technischem Bedarf, Wasser- und Luftfahrzeugen"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.15,
+        "nace_erweiterter_code": "G 46.15",
+        "bezeichnung": "Handelsvermittlung von Möbeln, Einrichtungs- und Haushaltsgegenständen, Eisen- und Metallwaren"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.16,
+        "nace_erweiterter_code": "G 46.16",
+        "bezeichnung": "Handelsvermittlung von Textilien, Bekleidung, Schuhen und Lederwaren"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.17,
+        "nace_erweiterter_code": "G 46.17",
+        "bezeichnung": "Handelsvermittlung von Nahrungsmitteln, Getränken und Tabakwaren"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.18,
+        "nace_erweiterter_code": "G 46.18",
+        "bezeichnung": "Handelsvermittlung von sonstigen Waren"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.19,
+        "nace_erweiterter_code": "G 46.19",
+        "bezeichnung": "Handelsvermittlung von Waren ohne ausgeprägten Schwerpunkt"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.2,
+        "nace_erweiterter_code": "G 46.2",
+        "bezeichnung": "Großhandel mit landwirtschaftlichen Grundstoffen und lebenden Tieren"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.21,
+        "nace_erweiterter_code": "G 46.21",
+        "bezeichnung": "Großhandel mit Getreide, Rohtabak, Saatgut und Futtermitteln"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.22,
+        "nace_erweiterter_code": "G 46.22",
+        "bezeichnung": "Großhandel mit Blumen und Pflanzen"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.23,
+        "nace_erweiterter_code": "G 46.23",
+        "bezeichnung": "Großhandel mit lebenden Tieren"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.24,
+        "nace_erweiterter_code": "G 46.24",
+        "bezeichnung": "Großhandel mit Häuten, Fellen und Leder"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.3,
+        "nace_erweiterter_code": "G 46.3",
+        "bezeichnung": "Großhandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.31,
+        "nace_erweiterter_code": "G 46.31",
+        "bezeichnung": "Großhandel mit Obst, Gemüse und Kartoffeln"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.32,
+        "nace_erweiterter_code": "G 46.32",
+        "bezeichnung": "Großhandel mit Fleisch und Fleischwaren"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.33,
+        "nace_erweiterter_code": "G 46.33",
+        "bezeichnung": "Großhandel mit Milch, Milcherzeugnissen, Eiern, Speiseölen und Nahrungsfetten"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.34,
+        "nace_erweiterter_code": "G 46.34",
+        "bezeichnung": "Großhandel mit Getränken"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.35,
+        "nace_erweiterter_code": "G 46.35",
+        "bezeichnung": "Großhandel mit Tabakwaren"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.36,
+        "nace_erweiterter_code": "G 46.36",
+        "bezeichnung": "Großhandel mit Zucker, Süßwaren und Backwaren"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.37,
+        "nace_erweiterter_code": "G 46.37",
+        "bezeichnung": "Großhandel mit Kaffee, Tee, Kakao und Gewürzen"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.38,
+        "nace_erweiterter_code": "G 46.38",
+        "bezeichnung": "Großhandel mit sonstigen Nahrungs- und Genussmitteln"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.39,
+        "nace_erweiterter_code": "G 46.39",
+        "bezeichnung": "Großhandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren, ohne ausgeprägten Schwerpunkt"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.4,
+        "nace_erweiterter_code": "G 46.4",
+        "bezeichnung": "Großhandel mit Gebrauchs- und Verbrauchsgütern"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.41,
+        "nace_erweiterter_code": "G 46.41",
+        "bezeichnung": "Großhandel mit Textilien"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.42,
+        "nace_erweiterter_code": "G 46.42",
+        "bezeichnung": "Großhandel mit Bekleidung und Schuhen"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.43,
+        "nace_erweiterter_code": "G 46.43",
+        "bezeichnung": "Großhandel mit Foto- und optischen Erzeugnissen, elektrischen Haushaltsgeräten und Geräten der Unterhaltungselektronik"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.44,
+        "nace_erweiterter_code": "G 46.44",
+        "bezeichnung": "Großhandel mit keramischen Erzeugnissen, Glaswaren und Reinigungsmitteln"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.45,
+        "nace_erweiterter_code": "G 46.45",
+        "bezeichnung": "Großhandel mit kosmetischen Erzeugnissen und Körperpflegemitteln"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.46,
+        "nace_erweiterter_code": "G 46.46",
+        "bezeichnung": "Großhandel mit pharmazeutischen, medizinischen und orthopädischen Erzeugnissen"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.47,
+        "nace_erweiterter_code": "G 46.47",
+        "bezeichnung": "Großhandel mit Möbeln, Teppichen, Lampen und Leuchten"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.48,
+        "nace_erweiterter_code": "G 46.48",
+        "bezeichnung": "Großhandel mit Uhren und Schmuck"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.49,
+        "nace_erweiterter_code": "G 46.49",
+        "bezeichnung": "Großhandel mit sonstigen Gebrauchs- und Verbrauchsgütern"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.5,
+        "nace_erweiterter_code": "G 46.5",
+        "bezeichnung": "Großhandel mit Geräten der Informations- und Kommunikationstechnik"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.51,
+        "nace_erweiterter_code": "G 46.51",
+        "bezeichnung": "Großhandel mit Datenverarbeitungsgeräten, peripheren Geräten und Software"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.52,
+        "nace_erweiterter_code": "G 46.52",
+        "bezeichnung": "Großhandel mit elektronischen Bauteilen und Telekommunikationsgeräten"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.6,
+        "nace_erweiterter_code": "G 46.6",
+        "bezeichnung": "Großhandel mit sonstigen Maschinen, Ausrüstungen und Zubehör"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.61,
+        "nace_erweiterter_code": "G 46.61",
+        "bezeichnung": "Großhandel mit landwirtschaftlichen Maschinen und Geräten"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.62,
+        "nace_erweiterter_code": "G 46.62",
+        "bezeichnung": "Großhandel mit Werkzeugmaschinen"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.63,
+        "nace_erweiterter_code": "G 46.63",
+        "bezeichnung": "Großhandel mit Bergwerks-, Bau- und Baustoffmaschinen"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.64,
+        "nace_erweiterter_code": "G 46.64",
+        "bezeichnung": "Großhandel mit Textil-, Näh- und Strickmaschinen"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.65,
+        "nace_erweiterter_code": "G 46.65",
+        "bezeichnung": "Großhandel mit Büromöbeln"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.66,
+        "nace_erweiterter_code": "G 46.66",
+        "bezeichnung": "Großhandel mit sonstigen Büromaschinen und -einrichtungen"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.69,
+        "nace_erweiterter_code": "G 46.69",
+        "bezeichnung": "Großhandel mit sonstigen Maschinen und Ausrüstungen"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.7,
+        "nace_erweiterter_code": "G 46.7",
+        "bezeichnung": "Sonstiger spezialisierter Großhandel"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.71,
+        "nace_erweiterter_code": "G 46.71",
+        "bezeichnung": "Großhandel mit festen Brennstoffen und Mineralölerzeugnissen"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.72,
+        "nace_erweiterter_code": "G 46.72",
+        "bezeichnung": "Großhandel mit Erzen, Metallen und Metallhalbzeug"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.73,
+        "nace_erweiterter_code": "G 46.73",
+        "bezeichnung": "Großhandel mit Holz, Baustoffen, Anstrichmitteln und Sanitärkeramik"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.74,
+        "nace_erweiterter_code": "G 46.74",
+        "bezeichnung": "Großhandel mit Metall- und Kunststoffwaren für Bauzwecke sowie Installationsbedarf für Gas, Wasser und Heizung"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.75,
+        "nace_erweiterter_code": "G 46.75",
+        "bezeichnung": "Großhandel mit chemischen Erzeugnissen"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.76,
+        "nace_erweiterter_code": "G 46.76",
+        "bezeichnung": "Großhandel mit sonstigen Halbwaren"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.77,
+        "nace_erweiterter_code": "G 46.77",
+        "bezeichnung": "Großhandel mit Altmaterialien und Reststoffen"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.9,
+        "nace_erweiterter_code": "G 46.9",
+        "bezeichnung": "Großhandel ohne ausgeprägten Schwerpunkt"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 46.9,
+        "nace_erweiterter_code": "G 46.90",
+        "bezeichnung": "Großhandel ohne ausgeprägten Schwerpunkt"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47,
+        "nace_erweiterter_code": "G 47",
+        "bezeichnung": "Einzelhandel (ohne Handel mit Kraftfahrzeugen)"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.1,
+        "nace_erweiterter_code": "G 47.1",
+        "bezeichnung": "Einzelhandel mit Waren verschiedener Art (in Verkaufsräumen)"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.11,
+        "nace_erweiterter_code": "G 47.11",
+        "bezeichnung": "Einzelhandel mit Waren verschiedener Art, Hauptrichtung Nahrungs- und Genussmittel, Getränke und Tabakwaren"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.19,
+        "nace_erweiterter_code": "G 47.19",
+        "bezeichnung": "Sonstiger Einzelhandel mit Waren verschiedener Art"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.2,
+        "nace_erweiterter_code": "G 47.2",
+        "bezeichnung": "Einzelhandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren (in Verkaufsräumen)"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.21,
+        "nace_erweiterter_code": "G 47.21",
+        "bezeichnung": "Einzelhandel mit Obst, Gemüse und Kartoffeln"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.22,
+        "nace_erweiterter_code": "G 47.22",
+        "bezeichnung": "Einzelhandel mit Fleisch und Fleischwaren"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.23,
+        "nace_erweiterter_code": "G 47.23",
+        "bezeichnung": "Einzelhandel mit Fisch, Meeresfrüchten und Fischerzeugnissen"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.24,
+        "nace_erweiterter_code": "G 47.24",
+        "bezeichnung": "Einzelhandel mit Back- und Süßwaren"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.25,
+        "nace_erweiterter_code": "G 47.25",
+        "bezeichnung": "Einzelhandel mit Getränken"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.26,
+        "nace_erweiterter_code": "G 47.26",
+        "bezeichnung": "Einzelhandel mit Tabakwaren"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.29,
+        "nace_erweiterter_code": "G 47.29",
+        "bezeichnung": "Sonstiger Einzelhandel mit Nahrungs- und Genussmitteln"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.3,
+        "nace_erweiterter_code": "G 47.3",
+        "bezeichnung": "Einzelhandel mit Motorenkraftstoffen (Tankstellen)"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.3,
+        "nace_erweiterter_code": "G 47.30",
+        "bezeichnung": "Einzelhandel mit Motorenkraftstoffen (Tankstellen)"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.4,
+        "nace_erweiterter_code": "G 47.4",
+        "bezeichnung": "Einzelhandel mit Geräten der Informations- und Kommunikationstechnik (in Verkaufsräumen)"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.41,
+        "nace_erweiterter_code": "G 47.41",
+        "bezeichnung": "Einzelhandel mit Datenverarbeitungsgeräten, peripheren Geräten und Software"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.42,
+        "nace_erweiterter_code": "G 47.42",
+        "bezeichnung": "Einzelhandel mit Telekommunikationsgeräten"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.43,
+        "nace_erweiterter_code": "G 47.43",
+        "bezeichnung": "Einzelhandel mit Geräten der Unterhaltungselektronik"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.5,
+        "nace_erweiterter_code": "G 47.5",
+        "bezeichnung": "Einzelhandel mit sonstigen Haushaltsgeräten, Textilien, Heimwerker- und Einrichtungsbedarf (in Verkaufsräumen)"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.51,
+        "nace_erweiterter_code": "G 47.51",
+        "bezeichnung": "Einzelhandel mit Textilien"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.52,
+        "nace_erweiterter_code": "G 47.52",
+        "bezeichnung": "Einzelhandel mit Metallwaren, Anstrichmitteln, Bau- und Heimwerkerbedarf"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.53,
+        "nace_erweiterter_code": "G 47.53",
+        "bezeichnung": "Einzelhandel mit Vorhängen, Teppichen, Fußbodenbelägen und Tapeten"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.54,
+        "nace_erweiterter_code": "G 47.54",
+        "bezeichnung": "Einzelhandel mit elektrischen Haushaltsgeräten"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.59,
+        "nace_erweiterter_code": "G 47.59",
+        "bezeichnung": "Einzelhandel mit Möbeln, Einrichtungsgegenständen und sonstigem Hausrat"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.6,
+        "nace_erweiterter_code": "G 47.6",
+        "bezeichnung": "Einzelhandel mit Verlagsprodukten, Sportausrüstungen und Spielwaren (in Verkaufsräumen)"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.61,
+        "nace_erweiterter_code": "G 47.61",
+        "bezeichnung": "Einzelhandel mit Büchern"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.62,
+        "nace_erweiterter_code": "G 47.62",
+        "bezeichnung": "Einzelhandel mit Zeitschriften, Zeitungen, Schreibwaren und Bürobedarf"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.63,
+        "nace_erweiterter_code": "G 47.63",
+        "bezeichnung": "Einzelhandel mit bespielten Ton- und Bildträgern"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.64,
+        "nace_erweiterter_code": "G 47.64",
+        "bezeichnung": "Einzelhandel mit Fahrrädern, Sport- und Campingartikeln"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.65,
+        "nace_erweiterter_code": "G 47.65",
+        "bezeichnung": "Einzelhandel mit Spielwaren"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.7,
+        "nace_erweiterter_code": "G 47.7",
+        "bezeichnung": "Einzelhandel mit sonstigen Gütern (in Verkaufsräumen)"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.71,
+        "nace_erweiterter_code": "G 47.71",
+        "bezeichnung": "Einzelhandel mit Bekleidung"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.72,
+        "nace_erweiterter_code": "G 47.72",
+        "bezeichnung": "Einzelhandel mit Schuhen und Lederwaren"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.73,
+        "nace_erweiterter_code": "G 47.73",
+        "bezeichnung": "Apotheken"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.74,
+        "nace_erweiterter_code": "G 47.74",
+        "bezeichnung": "Einzelhandel mit medizinischen und orthopädischen Artikeln"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.75,
+        "nace_erweiterter_code": "G 47.75",
+        "bezeichnung": "Einzelhandel mit kosmetischen Erzeugnissen und Körperpflegemitteln"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.76,
+        "nace_erweiterter_code": "G 47.76",
+        "bezeichnung": "Einzelhandel mit Blumen, Pflanzen, Sämereien, Düngemitteln, zoologischem Bedarf und lebenden Tieren"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.77,
+        "nace_erweiterter_code": "G 47.77",
+        "bezeichnung": "Einzelhandel mit Uhren und Schmuck"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.78,
+        "nace_erweiterter_code": "G 47.78",
+        "bezeichnung": "Sonstiger Einzelhandel in Verkaufsräumen (ohne Antiquitäten und Gebrauchtwaren)"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.79,
+        "nace_erweiterter_code": "G 47.79",
+        "bezeichnung": "Einzelhandel mit Antiquitäten und Gebrauchtwaren"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.8,
+        "nace_erweiterter_code": "G 47.8",
+        "bezeichnung": "Einzelhandel an Verkaufsständen und auf Märkten"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.81,
+        "nace_erweiterter_code": "G 47.81",
+        "bezeichnung": "Einzelhandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren an Verkaufsständen und auf Märkten"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.82,
+        "nace_erweiterter_code": "G 47.82",
+        "bezeichnung": "Einzelhandel mit Textilien, Bekleidung und Schuhen an Verkaufsständen und auf Märkten"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.89,
+        "nace_erweiterter_code": "G 47.89",
+        "bezeichnung": "Einzelhandel mit sonstigen Gütern an Verkaufsständen und auf Märkten"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.9,
+        "nace_erweiterter_code": "G 47.9",
+        "bezeichnung": "Einzelhandel, nicht in Verkaufsräumen, an Verkaufsständen oder auf Märkten"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.91,
+        "nace_erweiterter_code": "G 47.91",
+        "bezeichnung": "Versand- und Internet-Einzelhandel"
+    },
+    {
+        "nace_abschnittscode": "G",
+        "nace_code": 47.99,
+        "nace_erweiterter_code": "G 47.99",
+        "bezeichnung": "Sonstiger Einzelhandel, nicht in Verkaufsräumen, an Verkaufsständen oder auf Märkten"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": "",
+        "nace_erweiterter_code": "H",
+        "bezeichnung": "Verkehr und Lagerei"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 49,
+        "nace_erweiterter_code": "H 49",
+        "bezeichnung": "Landverkehr und Transport in Rohrfernleitungen"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 49.1,
+        "nace_erweiterter_code": "H 49.1",
+        "bezeichnung": "Personenbeförderung im Eisenbahnfernverkehr"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 49.1,
+        "nace_erweiterter_code": "H 49.10",
+        "bezeichnung": "Personenbeförderung im Eisenbahnfernverkehr"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 49.2,
+        "nace_erweiterter_code": "H 49.2",
+        "bezeichnung": "Güterbeförderung im Eisenbahnverkehr"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 49.2,
+        "nace_erweiterter_code": "H 49.20",
+        "bezeichnung": "Güterbeförderung im Eisenbahnverkehr"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 49.3,
+        "nace_erweiterter_code": "H 49.3",
+        "bezeichnung": "Sonstige Personenbeförderung im Landverkehr"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 49.31,
+        "nace_erweiterter_code": "H 49.31",
+        "bezeichnung": "Personenbeförderung im Nahverkehr zu Lande (ohne Taxi)"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 49.32,
+        "nace_erweiterter_code": "H 49.32",
+        "bezeichnung": "Betrieb von Taxis"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 49.39,
+        "nace_erweiterter_code": "H 49.39",
+        "bezeichnung": "Sonstige Personenbeförderung im Landverkehr a.n.g."
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 49.4,
+        "nace_erweiterter_code": "H 49.4",
+        "bezeichnung": "Güterbeförderung im Straßenverkehr, Umzugstransporte"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 49.41,
+        "nace_erweiterter_code": "H 49.41",
+        "bezeichnung": "Güterbeförderung im Straßenverkehr"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 49.42,
+        "nace_erweiterter_code": "H 49.42",
+        "bezeichnung": "Umzugstransporte"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 49.5,
+        "nace_erweiterter_code": "H 49.5",
+        "bezeichnung": "Transport in Rohrfernleitungen"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 49.5,
+        "nace_erweiterter_code": "H 49.50",
+        "bezeichnung": "Transport in Rohrfernleitungen"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 50,
+        "nace_erweiterter_code": "H 50",
+        "bezeichnung": "Schifffahrt"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 50.1,
+        "nace_erweiterter_code": "H 50.1",
+        "bezeichnung": "Personenbeförderung in der See- und Küstenschifffahrt"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 50.1,
+        "nace_erweiterter_code": "H 50.10",
+        "bezeichnung": "Personenbeförderung in der See- und Küstenschifffahrt"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 50.2,
+        "nace_erweiterter_code": "H 50.2",
+        "bezeichnung": "Güterbeförderung in der See- und Küstenschifffahrt"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 50.2,
+        "nace_erweiterter_code": "H 50.20",
+        "bezeichnung": "Güterbeförderung in der See- und Küstenschifffahrt"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 50.3,
+        "nace_erweiterter_code": "H 50.3",
+        "bezeichnung": "Personenbeförderung in der Binnenschifffahrt"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 50.3,
+        "nace_erweiterter_code": "H 50.30",
+        "bezeichnung": "Personenbeförderung in der Binnenschifffahrt"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 50.4,
+        "nace_erweiterter_code": "H 50.4",
+        "bezeichnung": "Güterbeförderung in der Binnenschifffahrt"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 50.4,
+        "nace_erweiterter_code": "H 50.40",
+        "bezeichnung": "Güterbeförderung in der Binnenschifffahrt"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 51,
+        "nace_erweiterter_code": "H 51",
+        "bezeichnung": "Luftfahrt"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 51.1,
+        "nace_erweiterter_code": "H 51.1",
+        "bezeichnung": "Personenbeförderung in der Luftfahrt"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 51.1,
+        "nace_erweiterter_code": "H 51.10",
+        "bezeichnung": "Personenbeförderung in der Luftfahrt"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 51.2,
+        "nace_erweiterter_code": "H 51.2",
+        "bezeichnung": "Güterbeförderung in der Luftfahrt und Raumtransport"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 51.21,
+        "nace_erweiterter_code": "H 51.21",
+        "bezeichnung": "Güterbeförderung in der Luftfahrt"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 51.22,
+        "nace_erweiterter_code": "H 51.22",
+        "bezeichnung": "Raumtransport"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 52,
+        "nace_erweiterter_code": "H 52",
+        "bezeichnung": "Lagerei sowie Erbringung von sonstigen Dienstleistungen für den Verkehr"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 52.1,
+        "nace_erweiterter_code": "H 52.1",
+        "bezeichnung": "Lagerei"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 52.1,
+        "nace_erweiterter_code": "H 52.10",
+        "bezeichnung": "Lagerei"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 52.2,
+        "nace_erweiterter_code": "H 52.2",
+        "bezeichnung": "Erbringung von sonstigen Dienstleistungen für den Verkehr"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 52.21,
+        "nace_erweiterter_code": "H 52.21",
+        "bezeichnung": "Erbringung von sonstigen Dienstleistungen für den Landverkehr"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 52.22,
+        "nace_erweiterter_code": "H 52.22",
+        "bezeichnung": "Erbringung von sonstigen Dienstleistungen für die Schifffahrt"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 52.23,
+        "nace_erweiterter_code": "H 52.23",
+        "bezeichnung": "Erbringung von sonstigen Dienstleistungen für die Luftfahrt"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 52.24,
+        "nace_erweiterter_code": "H 52.24",
+        "bezeichnung": "Frachtumschlag"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 52.29,
+        "nace_erweiterter_code": "H 52.29",
+        "bezeichnung": "Erbringung von sonstigen Dienstleistungen für den Verkehr a.n.g."
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 53,
+        "nace_erweiterter_code": "H 53",
+        "bezeichnung": "Post-, Kurier- und Expressdienste"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 53.1,
+        "nace_erweiterter_code": "H 53.1",
+        "bezeichnung": "Postdienste von Universaldienstleistungsanbietern"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 53.1,
+        "nace_erweiterter_code": "H 53.10",
+        "bezeichnung": "Postdienste von Universaldienstleistungsanbietern"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 53.2,
+        "nace_erweiterter_code": "H 53.2",
+        "bezeichnung": "Sonstige Post-, Kurier- und Expressdienste"
+    },
+    {
+        "nace_abschnittscode": "H",
+        "nace_code": 53.2,
+        "nace_erweiterter_code": "H 53.20",
+        "bezeichnung": "Sonstige Post-, Kurier- und Expressdienste"
+    },
+    {
+        "nace_abschnittscode": "I",
+        "nace_code": "",
+        "nace_erweiterter_code": "I",
+        "bezeichnung": "Beherbergung und Gastronomie"
+    },
+    {
+        "nace_abschnittscode": "I",
+        "nace_code": 55,
+        "nace_erweiterter_code": "I 55",
+        "bezeichnung": "Beherbergung"
+    },
+    {
+        "nace_abschnittscode": "I",
+        "nace_code": 55.1,
+        "nace_erweiterter_code": "I 55.1",
+        "bezeichnung": "Hotels, Gasthöfe und Pensionen"
+    },
+    {
+        "nace_abschnittscode": "I",
+        "nace_code": 55.1,
+        "nace_erweiterter_code": "I 55.10",
+        "bezeichnung": "Hotels, Gasthöfe und Pensionen"
+    },
+    {
+        "nace_abschnittscode": "I",
+        "nace_code": 55.2,
+        "nace_erweiterter_code": "I 55.2",
+        "bezeichnung": "Ferienunterkünfte und ähnliche Beherbergungsstätten"
+    },
+    {
+        "nace_abschnittscode": "I",
+        "nace_code": 55.2,
+        "nace_erweiterter_code": "I 55.20",
+        "bezeichnung": "Ferienunterkünfte und ähnliche Beherbergungsstätten"
+    },
+    {
+        "nace_abschnittscode": "I",
+        "nace_code": 55.3,
+        "nace_erweiterter_code": "I 55.3",
+        "bezeichnung": "Campingplätze"
+    },
+    {
+        "nace_abschnittscode": "I",
+        "nace_code": 55.3,
+        "nace_erweiterter_code": "I 55.30",
+        "bezeichnung": "Campingplätze"
+    },
+    {
+        "nace_abschnittscode": "I",
+        "nace_code": 55.9,
+        "nace_erweiterter_code": "I 55.9",
+        "bezeichnung": "Sonstige Beherbergungsstätten"
+    },
+    {
+        "nace_abschnittscode": "I",
+        "nace_code": 55.9,
+        "nace_erweiterter_code": "I 55.90",
+        "bezeichnung": "Sonstige Beherbergungsstätten"
+    },
+    {
+        "nace_abschnittscode": "I",
+        "nace_code": 56,
+        "nace_erweiterter_code": "I 56",
+        "bezeichnung": "Gastronomie"
+    },
+    {
+        "nace_abschnittscode": "I",
+        "nace_code": 56.1,
+        "nace_erweiterter_code": "I 56.1",
+        "bezeichnung": "Restaurants, Gaststätten, Imbissstuben, Cafés, Eissalons u.Ä."
+    },
+    {
+        "nace_abschnittscode": "I",
+        "nace_code": 56.1,
+        "nace_erweiterter_code": "I 56.10",
+        "bezeichnung": "Restaurants, Gaststätten, Imbissstuben, Cafés, Eissalons u.Ä."
+    },
+    {
+        "nace_abschnittscode": "I",
+        "nace_code": 56.2,
+        "nace_erweiterter_code": "I 56.2",
+        "bezeichnung": "Caterer und Erbringung sonstiger Verpflegungsdienstleistungen"
+    },
+    {
+        "nace_abschnittscode": "I",
+        "nace_code": 56.21,
+        "nace_erweiterter_code": "I 56.21",
+        "bezeichnung": "Event-Caterer"
+    },
+    {
+        "nace_abschnittscode": "I",
+        "nace_code": 56.29,
+        "nace_erweiterter_code": "I 56.29",
+        "bezeichnung": "Erbringung sonstiger Verpflegungsdienstleistungen"
+    },
+    {
+        "nace_abschnittscode": "I",
+        "nace_code": 56.3,
+        "nace_erweiterter_code": "I 56.3",
+        "bezeichnung": "Ausschank von Getränken"
+    },
+    {
+        "nace_abschnittscode": "I",
+        "nace_code": 56.3,
+        "nace_erweiterter_code": "I 56.30",
+        "bezeichnung": "Ausschank von Getränken"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": "",
+        "nace_erweiterter_code": "J",
+        "bezeichnung": "Information und Kommunikation"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 58,
+        "nace_erweiterter_code": "J 58",
+        "bezeichnung": "Verlagswesen"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 58.1,
+        "nace_erweiterter_code": "J 58.1",
+        "bezeichnung": "Verlegen von Büchern und Zeitschriften; sonstiges Verlagswesen (ohne Software)"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 58.11,
+        "nace_erweiterter_code": "J 58.11",
+        "bezeichnung": "Verlegen von Büchern"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 58.12,
+        "nace_erweiterter_code": "J 58.12",
+        "bezeichnung": "Verlegen von Adressbüchern und Verzeichnissen"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 58.13,
+        "nace_erweiterter_code": "J 58.13",
+        "bezeichnung": "Verlegen von Zeitungen"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 58.14,
+        "nace_erweiterter_code": "J 58.14",
+        "bezeichnung": "Verlegen von Zeitschriften"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 58.19,
+        "nace_erweiterter_code": "J 58.19",
+        "bezeichnung": "Sonstiges Verlagswesen (ohne Software)"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 58.2,
+        "nace_erweiterter_code": "J 58.2",
+        "bezeichnung": "Verlegen von Software"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 58.21,
+        "nace_erweiterter_code": "J 58.21",
+        "bezeichnung": "Verlegen von Computerspielen"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 58.29,
+        "nace_erweiterter_code": "J 58.29",
+        "bezeichnung": "Verlegen von sonstiger Software"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 59,
+        "nace_erweiterter_code": "J 59",
+        "bezeichnung": "Herstellung, Verleih und Vertrieb von Filmen und Fernsehprogrammen; Kinos; Tonstudios und Verlegen von Musik"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 59.1,
+        "nace_erweiterter_code": "J 59.1",
+        "bezeichnung": "Herstellung von Filmen und Fernsehprogrammen, deren Verleih und Vertrieb; Kinos"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 59.11,
+        "nace_erweiterter_code": "J 59.11",
+        "bezeichnung": "Herstellung von Filmen, Videofilmen und Fernsehprogrammen"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 59.12,
+        "nace_erweiterter_code": "J 59.12",
+        "bezeichnung": "Nachbearbeitung und sonstige Filmtechnik"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 59.13,
+        "nace_erweiterter_code": "J 59.13",
+        "bezeichnung": "Filmverleih und -vertrieb (ohne Videotheken)"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 59.14,
+        "nace_erweiterter_code": "J 59.14",
+        "bezeichnung": "Kinos"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 59.2,
+        "nace_erweiterter_code": "J 59.2",
+        "bezeichnung": "Tonstudios; Herstellung von Hörfunkbeiträgen; Verlegen von bespielten Tonträgern und Musikalien"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 59.2,
+        "nace_erweiterter_code": "J 59.20",
+        "bezeichnung": "Tonstudios; Herstellung von Hörfunkbeiträgen; Verlegen von bespielten Tonträgern und Musikalien"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 60,
+        "nace_erweiterter_code": "J 60",
+        "bezeichnung": "Rundfunkveranstalter"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 60.1,
+        "nace_erweiterter_code": "J 60.1",
+        "bezeichnung": "Hörfunkveranstalter"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 60.1,
+        "nace_erweiterter_code": "J 60.10",
+        "bezeichnung": "Hörfunkveranstalter"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 60.2,
+        "nace_erweiterter_code": "J 60.2",
+        "bezeichnung": "Fernsehveranstalter"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 60.2,
+        "nace_erweiterter_code": "J 60.20",
+        "bezeichnung": "Fernsehveranstalter"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 61,
+        "nace_erweiterter_code": "J 61",
+        "bezeichnung": "Telekommunikation"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 61.1,
+        "nace_erweiterter_code": "J 61.1",
+        "bezeichnung": "Leitungsgebundene Telekommunikation"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 61.1,
+        "nace_erweiterter_code": "J 61.10",
+        "bezeichnung": "Leitungsgebundene Telekommunikation"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 61.2,
+        "nace_erweiterter_code": "J 61.2",
+        "bezeichnung": "Drahtlose Telekommunikation"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 61.2,
+        "nace_erweiterter_code": "J 61.20",
+        "bezeichnung": "Drahtlose Telekommunikation"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 61.3,
+        "nace_erweiterter_code": "J 61.3",
+        "bezeichnung": "Satellitentelekommunikation"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 61.3,
+        "nace_erweiterter_code": "J 61.30",
+        "bezeichnung": "Satellitentelekommunikation"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 61.9,
+        "nace_erweiterter_code": "J 61.9",
+        "bezeichnung": "Sonstige Telekommunikation"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 61.9,
+        "nace_erweiterter_code": "J 61.90",
+        "bezeichnung": "Sonstige Telekommunikation"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 62,
+        "nace_erweiterter_code": "J 62",
+        "bezeichnung": "Erbringung von Dienstleistungen der Informationstechnologie"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 62,
+        "nace_erweiterter_code": "J 62.0",
+        "bezeichnung": "Erbringung von Dienstleistungen der Informationstechnologie"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 62.01,
+        "nace_erweiterter_code": "J 62.01",
+        "bezeichnung": "Programmierungstätigkeiten"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 62.02,
+        "nace_erweiterter_code": "J 62.02",
+        "bezeichnung": "Erbringung von Beratungsleistungen auf dem Gebiet der Informationstechnologie"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 62.03,
+        "nace_erweiterter_code": "J 62.03",
+        "bezeichnung": "Betrieb von Datenverarbeitungsanlagen für Dritte"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 62.09,
+        "nace_erweiterter_code": "J 62.09",
+        "bezeichnung": "Erbringung von sonstigen Dienstleistungen der Informationstechnologie"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 63,
+        "nace_erweiterter_code": "J 63",
+        "bezeichnung": "Informationsdienstleistungen"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 63.1,
+        "nace_erweiterter_code": "J 63.1",
+        "bezeichnung": "Datenverarbeitung, Hosting und damit verbundene Tätigkeiten; Webportale"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 63.11,
+        "nace_erweiterter_code": "J 63.11",
+        "bezeichnung": "Datenverarbeitung, Hosting und damit verbundene Tätigkeiten"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 63.12,
+        "nace_erweiterter_code": "J 63.12",
+        "bezeichnung": "Webportale"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 63.9,
+        "nace_erweiterter_code": "J 63.9",
+        "bezeichnung": "Erbringung von sonstigen Informationsdienstleistungen"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 63.91,
+        "nace_erweiterter_code": "J 63.91",
+        "bezeichnung": "Korrespondenz- und Nachrichtenbüros"
+    },
+    {
+        "nace_abschnittscode": "J",
+        "nace_code": 63.99,
+        "nace_erweiterter_code": "J 63.99",
+        "bezeichnung": "Erbringung von sonstigen Informationsdienstleistungen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": "",
+        "nace_erweiterter_code": "K",
+        "bezeichnung": "Erbringung von Finanz- und Versicherungs-Dienstleistungen"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 64,
+        "nace_erweiterter_code": "K 64",
+        "bezeichnung": "Erbringung von Finanzdienstleistungen"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 64.1,
+        "nace_erweiterter_code": "K 64.1",
+        "bezeichnung": "Zentralbanken und Kreditinstitute"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 64.11,
+        "nace_erweiterter_code": "K 64.11",
+        "bezeichnung": "Zentralbanken"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 64.19,
+        "nace_erweiterter_code": "K 64.19",
+        "bezeichnung": "Kreditinstitute (ohne Spezialkreditinstitute)"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 64.2,
+        "nace_erweiterter_code": "K 64.2",
+        "bezeichnung": "Beteiligungsgesellschaften"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 64.2,
+        "nace_erweiterter_code": "K 64.20",
+        "bezeichnung": "Beteiligungsgesellschaften"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 64.3,
+        "nace_erweiterter_code": "K 64.3",
+        "bezeichnung": "Treuhand- und sonstige Fonds und ähnliche Finanzinstitutionen"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 64.3,
+        "nace_erweiterter_code": "K 64.30",
+        "bezeichnung": "Treuhand- und sonstige Fonds und ähnliche Finanzinstitutionen"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 64.9,
+        "nace_erweiterter_code": "K 64.9",
+        "bezeichnung": "Sonstige Finanzierungsinstitutionen"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 64.91,
+        "nace_erweiterter_code": "K 64.91",
+        "bezeichnung": "Institutionen für Finanzierungsleasing"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 64.92,
+        "nace_erweiterter_code": "K 64.92",
+        "bezeichnung": "Spezialkreditinstitute"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 64.99,
+        "nace_erweiterter_code": "K 64.99",
+        "bezeichnung": "Erbringung von sonstigen Finanzdienstleistungen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 65,
+        "nace_erweiterter_code": "K 65",
+        "bezeichnung": "Versicherungen, Rückversicherungen und Pensionskassen (ohne Sozialversicherung)"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 65.1,
+        "nace_erweiterter_code": "K 65.1",
+        "bezeichnung": "Versicherungen"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 65.11,
+        "nace_erweiterter_code": "K 65.11",
+        "bezeichnung": "Lebensversicherungen"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 65.12,
+        "nace_erweiterter_code": "K 65.12",
+        "bezeichnung": "Nichtlebensversicherungen"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 65.2,
+        "nace_erweiterter_code": "K 65.2",
+        "bezeichnung": "Rückversicherungen"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 65.2,
+        "nace_erweiterter_code": "K 65.20",
+        "bezeichnung": "Rückversicherungen"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 65.3,
+        "nace_erweiterter_code": "K 65.3",
+        "bezeichnung": "Pensionskassen und Pensionsfonds"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 65.3,
+        "nace_erweiterter_code": "K 65.30",
+        "bezeichnung": "Pensionskassen und Pensionsfonds"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 66,
+        "nace_erweiterter_code": "K 66",
+        "bezeichnung": "Mit den Finanz- und Versicherungsdienstleistungen verbundene Tätigkeiten"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 66.1,
+        "nace_erweiterter_code": "K 66.1",
+        "bezeichnung": "Mit den Finanzdienstleistungen verbundene Tätigkeiten"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 66.11,
+        "nace_erweiterter_code": "K 66.11",
+        "bezeichnung": "Effekten- und Warenbörsen"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 66.12,
+        "nace_erweiterter_code": "K 66.12",
+        "bezeichnung": "Effekten- und Warenhandel"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 66.19,
+        "nace_erweiterter_code": "K 66.19",
+        "bezeichnung": "Sonstige mit den Finanzdienstleistungen verbundene Tätigkeiten"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 66.2,
+        "nace_erweiterter_code": "K 66.2",
+        "bezeichnung": "Mit den Versicherungsdienstleistungen und Pensionskassen verbundene Tätigkeiten"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 66.21,
+        "nace_erweiterter_code": "K 66.21",
+        "bezeichnung": "Risiko- und Schadensbewertung"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 66.22,
+        "nace_erweiterter_code": "K 66.22",
+        "bezeichnung": "Tätigkeit von Versicherungsmaklerinnen und -maklern"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 66.29,
+        "nace_erweiterter_code": "K 66.29",
+        "bezeichnung": "Sonstige mit den Versicherungsdienstleistungen und Pensionskassen verbundene Tätigkeiten"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 66.3,
+        "nace_erweiterter_code": "K 66.3",
+        "bezeichnung": "Fondsmanagement"
+    },
+    {
+        "nace_abschnittscode": "K",
+        "nace_code": 66.3,
+        "nace_erweiterter_code": "K 66.30",
+        "bezeichnung": "Fondsmanagement"
+    },
+    {
+        "nace_abschnittscode": "L",
+        "nace_code": "",
+        "nace_erweiterter_code": "L",
+        "bezeichnung": "Grundstücks- und Wohnungswesen"
+    },
+    {
+        "nace_abschnittscode": "L",
+        "nace_code": 68,
+        "nace_erweiterter_code": "L 68",
+        "bezeichnung": "Grundstücks- und Wohnungswesen"
+    },
+    {
+        "nace_abschnittscode": "L",
+        "nace_code": 68.1,
+        "nace_erweiterter_code": "L 68.1",
+        "bezeichnung": "Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen"
+    },
+    {
+        "nace_abschnittscode": "L",
+        "nace_code": 68.1,
+        "nace_erweiterter_code": "L 68.10",
+        "bezeichnung": "Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen"
+    },
+    {
+        "nace_abschnittscode": "L",
+        "nace_code": 68.2,
+        "nace_erweiterter_code": "L 68.2",
+        "bezeichnung": "Vermietung, Verpachtung von eigenen oder geleasten Grundstücken, Gebäuden und Wohnungen"
+    },
+    {
+        "nace_abschnittscode": "L",
+        "nace_code": 68.2,
+        "nace_erweiterter_code": "L 68.20",
+        "bezeichnung": "Vermietung, Verpachtung von eigenen oder geleasten Grundstücken, Gebäuden und Wohnungen"
+    },
+    {
+        "nace_abschnittscode": "L",
+        "nace_code": 68.3,
+        "nace_erweiterter_code": "L 68.3",
+        "bezeichnung": "Vermittlung und Verwaltung von Grundstücken, Gebäuden und Wohnungen für Dritte"
+    },
+    {
+        "nace_abschnittscode": "L",
+        "nace_code": 68.31,
+        "nace_erweiterter_code": "L 68.31",
+        "bezeichnung": "Vermittlung von Grundstücken, Gebäuden und Wohnungen für Dritte"
+    },
+    {
+        "nace_abschnittscode": "L",
+        "nace_code": 68.32,
+        "nace_erweiterter_code": "L 68.32",
+        "bezeichnung": "Verwaltung von Grundstücken, Gebäuden und Wohnungen für Dritte"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": "",
+        "nace_erweiterter_code": "M",
+        "bezeichnung": "Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 69,
+        "nace_erweiterter_code": "M 69",
+        "bezeichnung": "Rechts- und Steuerberatung, Wirtschaftsprüfung"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 69.1,
+        "nace_erweiterter_code": "M 69.1",
+        "bezeichnung": "Rechtsberatung"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 69.1,
+        "nace_erweiterter_code": "M 69.10",
+        "bezeichnung": "Rechtsberatung"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 69.2,
+        "nace_erweiterter_code": "M 69.2",
+        "bezeichnung": "Wirtschaftsprüfung und Steuerberatung; Buchführung"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 69.2,
+        "nace_erweiterter_code": "M 69.20",
+        "bezeichnung": "Wirtschaftsprüfung und Steuerberatung; Buchführung"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 70,
+        "nace_erweiterter_code": "M 70",
+        "bezeichnung": "Verwaltung und Führung von Unternehmen und Betrieben; Unternehmensberatung"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 70.1,
+        "nace_erweiterter_code": "M 70.1",
+        "bezeichnung": "Verwaltung und Führung von Unternehmen und Betrieben"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 70.1,
+        "nace_erweiterter_code": "M 70.10",
+        "bezeichnung": "Verwaltung und Führung von Unternehmen und Betrieben"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 70.2,
+        "nace_erweiterter_code": "M 70.2",
+        "bezeichnung": "Public-Relations- und Unternehmensberatung"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 70.21,
+        "nace_erweiterter_code": "M 70.21",
+        "bezeichnung": "Public-Relations-Beratung"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 70.22,
+        "nace_erweiterter_code": "M 70.22",
+        "bezeichnung": "Unternehmensberatung"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 71,
+        "nace_erweiterter_code": "M 71",
+        "bezeichnung": "Architektur- und Ingenieurbüros; technische, physikalische und chemische Untersuchung"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 71.1,
+        "nace_erweiterter_code": "M 71.1",
+        "bezeichnung": "Architektur- und Ingenieurbüros"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 71.11,
+        "nace_erweiterter_code": "M 71.11",
+        "bezeichnung": "Architekturbüros"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 71.12,
+        "nace_erweiterter_code": "M 71.12",
+        "bezeichnung": "Ingenieurbüros"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 71.2,
+        "nace_erweiterter_code": "M 71.2",
+        "bezeichnung": "Technische, physikalische und chemische Untersuchung"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 71.2,
+        "nace_erweiterter_code": "M 71.20",
+        "bezeichnung": "Technische, physikalische und chemische Untersuchung"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 72,
+        "nace_erweiterter_code": "M 72",
+        "bezeichnung": "Forschung und Entwicklung"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 72.1,
+        "nace_erweiterter_code": "M 72.1",
+        "bezeichnung": "Forschung und Entwicklung im Bereich Natur-, Ingenieur-, Agrarwissenschaften und Medizin"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 72.11,
+        "nace_erweiterter_code": "M 72.11",
+        "bezeichnung": "Forschung und Entwicklung im Bereich Biotechnologie"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 72.19,
+        "nace_erweiterter_code": "M 72.19",
+        "bezeichnung": "Sonstige Forschung und Entwicklung im Bereich Natur-, Ingenieur-, Agrarwissenschaften und Medizin"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 72.2,
+        "nace_erweiterter_code": "M 72.2",
+        "bezeichnung": "Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 72.2,
+        "nace_erweiterter_code": "M 72.20",
+        "bezeichnung": "Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 73,
+        "nace_erweiterter_code": "M 73",
+        "bezeichnung": "Werbung und Marktforschung"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 73.1,
+        "nace_erweiterter_code": "M 73.1",
+        "bezeichnung": "Werbung"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 73.11,
+        "nace_erweiterter_code": "M 73.11",
+        "bezeichnung": "Werbeagenturen"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 73.12,
+        "nace_erweiterter_code": "M 73.12",
+        "bezeichnung": "Vermarktung und Vermittlung von Werbezeiten und Werbeflächen"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 73.2,
+        "nace_erweiterter_code": "M 73.2",
+        "bezeichnung": "Markt- und Meinungsforschung"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 73.2,
+        "nace_erweiterter_code": "M 73.20",
+        "bezeichnung": "Markt- und Meinungsforschung"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 74,
+        "nace_erweiterter_code": "M 74",
+        "bezeichnung": "Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 74.1,
+        "nace_erweiterter_code": "M 74.1",
+        "bezeichnung": "Ateliers für Textil-, Schmuck-, Grafik- u.ä. Design"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 74.1,
+        "nace_erweiterter_code": "M 74.10",
+        "bezeichnung": "Ateliers für Textil-, Schmuck-, Grafik- u.ä. Design"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 74.2,
+        "nace_erweiterter_code": "M 74.2",
+        "bezeichnung": "Fotografie und Fotolabors"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 74.2,
+        "nace_erweiterter_code": "M 74.20",
+        "bezeichnung": "Fotografie und Fotolabors"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 74.3,
+        "nace_erweiterter_code": "M 74.3",
+        "bezeichnung": "Übersetzen und Dolmetschen"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 74.3,
+        "nace_erweiterter_code": "M 74.30",
+        "bezeichnung": "Übersetzen und Dolmetschen"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 74.9,
+        "nace_erweiterter_code": "M 74.9",
+        "bezeichnung": "Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten a.n.g."
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 74.9,
+        "nace_erweiterter_code": "M 74.90",
+        "bezeichnung": "Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten a.n.g."
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 75,
+        "nace_erweiterter_code": "M 75",
+        "bezeichnung": "Veterinärwesen"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 75,
+        "nace_erweiterter_code": "M 75.0",
+        "bezeichnung": "Veterinärwesen"
+    },
+    {
+        "nace_abschnittscode": "M",
+        "nace_code": 75,
+        "nace_erweiterter_code": "M 75.00",
+        "bezeichnung": "Veterinärwesen"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": "",
+        "nace_erweiterter_code": "N",
+        "bezeichnung": "Erbringung von sonstigen wirtschaftlichen Dienstleistungen"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 77,
+        "nace_erweiterter_code": "N 77",
+        "bezeichnung": "Vermietung von beweglichen Sachen"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 77.1,
+        "nace_erweiterter_code": "N 77.1",
+        "bezeichnung": "Vermietung von Kraftwagen"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 77.11,
+        "nace_erweiterter_code": "N 77.11",
+        "bezeichnung": "Vermietung von Kraftwagen mit einem Gesamtgewicht von 3,5 t oder weniger"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 77.12,
+        "nace_erweiterter_code": "N 77.12",
+        "bezeichnung": "Vermietung von Kraftwagen mit einem Gesamtgewicht von mehr als 3,5 t"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 77.2,
+        "nace_erweiterter_code": "N 77.2",
+        "bezeichnung": "Vermietung von Gebrauchsgütern"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 77.21,
+        "nace_erweiterter_code": "N 77.21",
+        "bezeichnung": "Vermietung von Sport- und Freizeitgeräten"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 77.22,
+        "nace_erweiterter_code": "N 77.22",
+        "bezeichnung": "Videotheken"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 77.29,
+        "nace_erweiterter_code": "N 77.29",
+        "bezeichnung": "Vermietung von sonstigen Gebrauchsgütern"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 77.3,
+        "nace_erweiterter_code": "N 77.3",
+        "bezeichnung": "Vermietung von Maschinen, Geräten und sonstigen beweglichen Sachen"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 77.31,
+        "nace_erweiterter_code": "N 77.31",
+        "bezeichnung": "Vermietung von landwirtschaftlichen Maschinen und Geräten"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 77.32,
+        "nace_erweiterter_code": "N 77.32",
+        "bezeichnung": "Vermietung von Baumaschinen und -geräten"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 77.33,
+        "nace_erweiterter_code": "N 77.33",
+        "bezeichnung": "Vermietung von Büromaschinen, Datenverarbeitungsgeräten und -einrichtungen"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 77.34,
+        "nace_erweiterter_code": "N 77.34",
+        "bezeichnung": "Vermietung von Wasserfahrzeugen"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 77.35,
+        "nace_erweiterter_code": "N 77.35",
+        "bezeichnung": "Vermietung von Luftfahrzeugen"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 77.39,
+        "nace_erweiterter_code": "N 77.39",
+        "bezeichnung": "Vermietung von sonstigen Maschinen, Geräten und beweglichen Sachen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 77.4,
+        "nace_erweiterter_code": "N 77.4",
+        "bezeichnung": "Leasing von nichtfinanziellen immateriellen Vermögensgegenständen (ohne Copyrights)"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 77.4,
+        "nace_erweiterter_code": "N 77.40",
+        "bezeichnung": "Leasing von nichtfinanziellen immateriellen Vermögensgegenständen (ohne Copyrights)"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 78,
+        "nace_erweiterter_code": "N 78",
+        "bezeichnung": "Vermittlung und Überlassung von Arbeitskräften"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 78.1,
+        "nace_erweiterter_code": "N 78.1",
+        "bezeichnung": "Vermittlung von Arbeitskräften"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 78.1,
+        "nace_erweiterter_code": "N 78.10",
+        "bezeichnung": "Vermittlung von Arbeitskräften"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 78.2,
+        "nace_erweiterter_code": "N 78.2",
+        "bezeichnung": "Befristete Überlassung von Arbeitskräften"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 78.2,
+        "nace_erweiterter_code": "N 78.20",
+        "bezeichnung": "Befristete Überlassung von Arbeitskräften"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 78.3,
+        "nace_erweiterter_code": "N 78.3",
+        "bezeichnung": "Sonstige Überlassung von Arbeitskräften"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 78.3,
+        "nace_erweiterter_code": "N 78.30",
+        "bezeichnung": "Sonstige Überlassung von Arbeitskräften"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 79,
+        "nace_erweiterter_code": "N 79",
+        "bezeichnung": "Reisebüros, Reiseveranstalter und Erbringung sonstiger Reservierungsdienstleistungen"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 79.1,
+        "nace_erweiterter_code": "N 79.1",
+        "bezeichnung": "Reisebüros und Reiseveranstalter"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 79.11,
+        "nace_erweiterter_code": "N 79.11",
+        "bezeichnung": "Reisebüros"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 79.12,
+        "nace_erweiterter_code": "N 79.12",
+        "bezeichnung": "Reiseveranstalter"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 79.9,
+        "nace_erweiterter_code": "N 79.9",
+        "bezeichnung": "Erbringung sonstiger Reservierungsdienstleistungen"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 79.9,
+        "nace_erweiterter_code": "N 79.90",
+        "bezeichnung": "Erbringung sonstiger Reservierungsdienstleistungen"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 80,
+        "nace_erweiterter_code": "N 80",
+        "bezeichnung": "Wach- und Sicherheitsdienste sowie Detekteien"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 80.1,
+        "nace_erweiterter_code": "N 80.1",
+        "bezeichnung": "Private Wach- und Sicherheitsdienste"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 80.1,
+        "nace_erweiterter_code": "N 80.10",
+        "bezeichnung": "Private Wach- und Sicherheitsdienste"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 80.2,
+        "nace_erweiterter_code": "N 80.2",
+        "bezeichnung": "Sicherheitsdienste mithilfe von Überwachungs- und Alarmsystemen"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 80.2,
+        "nace_erweiterter_code": "N 80.20",
+        "bezeichnung": "Sicherheitsdienste mithilfe von Überwachungs- und Alarmsystemen"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 80.3,
+        "nace_erweiterter_code": "N 80.3",
+        "bezeichnung": "Detekteien"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 80.3,
+        "nace_erweiterter_code": "N 80.30",
+        "bezeichnung": "Detekteien"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 81,
+        "nace_erweiterter_code": "N 81",
+        "bezeichnung": "Gebäudebetreuung; Garten- und Landschaftsbau"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 81.1,
+        "nace_erweiterter_code": "N 81.1",
+        "bezeichnung": "Hausmeisterdienste"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 81.1,
+        "nace_erweiterter_code": "N 81.10",
+        "bezeichnung": "Hausmeisterdienste"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 81.2,
+        "nace_erweiterter_code": "N 81.2",
+        "bezeichnung": "Reinigung von Gebäuden, Straßen und Verkehrsmitteln"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 81.21,
+        "nace_erweiterter_code": "N 81.21",
+        "bezeichnung": "Allgemeine Gebäudereinigung"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 81.22,
+        "nace_erweiterter_code": "N 81.22",
+        "bezeichnung": "Spezielle Reinigung von Gebäuden und Reinigung von Maschinen"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 81.29,
+        "nace_erweiterter_code": "N 81.29",
+        "bezeichnung": "Reinigung a.n.g."
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 81.3,
+        "nace_erweiterter_code": "N 81.3",
+        "bezeichnung": "Garten- und Landschaftsbau sowie Erbringung von sonstigen gärtnerischen Dienstleistungen"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 81.3,
+        "nace_erweiterter_code": "N 81.30",
+        "bezeichnung": "Garten- und Landschaftsbau sowie Erbringung von sonstigen gärtnerischen Dienstleistungen"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 82,
+        "nace_erweiterter_code": "N 82",
+        "bezeichnung": "Erbringung von wirtschaftlichen Dienstleistungen für Unternehmen und Privatpersonen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 82.1,
+        "nace_erweiterter_code": "N 82.1",
+        "bezeichnung": "Sekretariats- und Schreibdienste, Copy-Shops"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 82.11,
+        "nace_erweiterter_code": "N 82.11",
+        "bezeichnung": "Allgemeine Sekretariats- und Schreibdienste"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 82.19,
+        "nace_erweiterter_code": "N 82.19",
+        "bezeichnung": "Copy-Shops; Dokumentenvorbereitung und Erbringung sonstiger spezieller Sekretariatsdienste"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 82.2,
+        "nace_erweiterter_code": "N 82.2",
+        "bezeichnung": "Call Centers"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 82.2,
+        "nace_erweiterter_code": "N 82.20",
+        "bezeichnung": "Call Centers"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 82.3,
+        "nace_erweiterter_code": "N 82.3",
+        "bezeichnung": "Messe-, Ausstellungs- und Kongressveranstalter"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 82.3,
+        "nace_erweiterter_code": "N 82.30",
+        "bezeichnung": "Messe-, Ausstellungs- und Kongressveranstalter"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 82.9,
+        "nace_erweiterter_code": "N 82.9",
+        "bezeichnung": "Erbringung sonstiger wirtschaftlicher Dienstleistungen für Unternehmen und Privatpersonen"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 82.91,
+        "nace_erweiterter_code": "N 82.91",
+        "bezeichnung": "Inkassobüros und Auskunfteien"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 82.92,
+        "nace_erweiterter_code": "N 82.92",
+        "bezeichnung": "Abfüllen und Verpacken"
+    },
+    {
+        "nace_abschnittscode": "N",
+        "nace_code": 82.99,
+        "nace_erweiterter_code": "N 82.99",
+        "bezeichnung": "Erbringung sonstiger wirtschaftlicher Dienstleistungen für Unternehmen und Privatpersonen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "O",
+        "nace_code": "",
+        "nace_erweiterter_code": "O",
+        "bezeichnung": "Öffentliche Verwaltung, Verteidigung, Sozialversicherung"
+    },
+    {
+        "nace_abschnittscode": "O",
+        "nace_code": 84,
+        "nace_erweiterter_code": "O 84",
+        "bezeichnung": "Öffentliche Verwaltung, Verteidigung, Sozialversicherung"
+    },
+    {
+        "nace_abschnittscode": "O",
+        "nace_code": 84.1,
+        "nace_erweiterter_code": "O 84.1",
+        "bezeichnung": "Öffentliche Verwaltung"
+    },
+    {
+        "nace_abschnittscode": "O",
+        "nace_code": 84.11,
+        "nace_erweiterter_code": "O 84.11",
+        "bezeichnung": "Allgemeine öffentliche Verwaltung"
+    },
+    {
+        "nace_abschnittscode": "O",
+        "nace_code": 84.12,
+        "nace_erweiterter_code": "O 84.12",
+        "bezeichnung": "Öffentliche Verwaltung auf den Gebieten Gesundheitswesen, Bildung, Kultur und Sozialwesen"
+    },
+    {
+        "nace_abschnittscode": "O",
+        "nace_code": 84.13,
+        "nace_erweiterter_code": "O 84.13",
+        "bezeichnung": "Wirtschaftsförderung, -ordnung und -aufsicht"
+    },
+    {
+        "nace_abschnittscode": "O",
+        "nace_code": 84.2,
+        "nace_erweiterter_code": "O 84.2",
+        "bezeichnung": "Auswärtige Angelegenheiten, Verteidigung, Justiz, öffentliche Sicherheit und Ordnung"
+    },
+    {
+        "nace_abschnittscode": "O",
+        "nace_code": 84.21,
+        "nace_erweiterter_code": "O 84.21",
+        "bezeichnung": "Auswärtige Angelegenheiten"
+    },
+    {
+        "nace_abschnittscode": "O",
+        "nace_code": 84.22,
+        "nace_erweiterter_code": "O 84.22",
+        "bezeichnung": "Verteidigung"
+    },
+    {
+        "nace_abschnittscode": "O",
+        "nace_code": 84.23,
+        "nace_erweiterter_code": "O 84.23",
+        "bezeichnung": "Justiz"
+    },
+    {
+        "nace_abschnittscode": "O",
+        "nace_code": 84.24,
+        "nace_erweiterter_code": "O 84.24",
+        "bezeichnung": "Öffentliche Sicherheit und Ordnung"
+    },
+    {
+        "nace_abschnittscode": "O",
+        "nace_code": 84.25,
+        "nace_erweiterter_code": "O 84.25",
+        "bezeichnung": "Feuerwehren"
+    },
+    {
+        "nace_abschnittscode": "O",
+        "nace_code": 84.3,
+        "nace_erweiterter_code": "O 84.3",
+        "bezeichnung": "Sozialversicherung"
+    },
+    {
+        "nace_abschnittscode": "O",
+        "nace_code": 84.3,
+        "nace_erweiterter_code": "O 84.30",
+        "bezeichnung": "Sozialversicherung"
+    },
+    {
+        "nace_abschnittscode": "P",
+        "nace_code": "",
+        "nace_erweiterter_code": "P",
+        "bezeichnung": "Erziehung und Unterricht"
+    },
+    {
+        "nace_abschnittscode": "P",
+        "nace_code": 85,
+        "nace_erweiterter_code": "P 85",
+        "bezeichnung": "Erziehung und Unterricht"
+    },
+    {
+        "nace_abschnittscode": "P",
+        "nace_code": 85.1,
+        "nace_erweiterter_code": "P 85.1",
+        "bezeichnung": "Kindergärten und Vorschulen"
+    },
+    {
+        "nace_abschnittscode": "P",
+        "nace_code": 85.1,
+        "nace_erweiterter_code": "P 85.10",
+        "bezeichnung": "Kindergärten und Vorschulen"
+    },
+    {
+        "nace_abschnittscode": "P",
+        "nace_code": 85.2,
+        "nace_erweiterter_code": "P 85.2",
+        "bezeichnung": "Volksschulen"
+    },
+    {
+        "nace_abschnittscode": "P",
+        "nace_code": 85.2,
+        "nace_erweiterter_code": "P 85.20",
+        "bezeichnung": "Volksschulen"
+    },
+    {
+        "nace_abschnittscode": "P",
+        "nace_code": 85.3,
+        "nace_erweiterter_code": "P 85.3",
+        "bezeichnung": "Weiterführende Schulen"
+    },
+    {
+        "nace_abschnittscode": "P",
+        "nace_code": 85.31,
+        "nace_erweiterter_code": "P 85.31",
+        "bezeichnung": "Allgemein bildende weiterführende Schulen"
+    },
+    {
+        "nace_abschnittscode": "P",
+        "nace_code": 85.32,
+        "nace_erweiterter_code": "P 85.32",
+        "bezeichnung": "Berufsbildende weiterführende Schulen"
+    },
+    {
+        "nace_abschnittscode": "P",
+        "nace_code": 85.4,
+        "nace_erweiterter_code": "P 85.4",
+        "bezeichnung": "Tertiärer und post-sekundärer, nicht teritiärer Unterricht"
+    },
+    {
+        "nace_abschnittscode": "P",
+        "nace_code": 85.41,
+        "nace_erweiterter_code": "P 85.41",
+        "bezeichnung": "Post-sekundärer, nicht tertiärer Unterricht"
+    },
+    {
+        "nace_abschnittscode": "P",
+        "nace_code": 85.42,
+        "nace_erweiterter_code": "P 85.42",
+        "bezeichnung": "Tertiärer Unterricht"
+    },
+    {
+        "nace_abschnittscode": "P",
+        "nace_code": 85.5,
+        "nace_erweiterter_code": "P 85.5",
+        "bezeichnung": "Sonstiger Unterricht"
+    },
+    {
+        "nace_abschnittscode": "P",
+        "nace_code": 85.51,
+        "nace_erweiterter_code": "P 85.51",
+        "bezeichnung": "Sport- und Freizeitunterricht"
+    },
+    {
+        "nace_abschnittscode": "P",
+        "nace_code": 85.52,
+        "nace_erweiterter_code": "P 85.52",
+        "bezeichnung": "Kulturunterricht"
+    },
+    {
+        "nace_abschnittscode": "P",
+        "nace_code": 85.53,
+        "nace_erweiterter_code": "P 85.53",
+        "bezeichnung": "Fahr- und Flugschulen"
+    },
+    {
+        "nace_abschnittscode": "P",
+        "nace_code": 85.59,
+        "nace_erweiterter_code": "P 85.59",
+        "bezeichnung": "Sonstiger Unterricht a.n.g."
+    },
+    {
+        "nace_abschnittscode": "P",
+        "nace_code": 85.6,
+        "nace_erweiterter_code": "P 85.6",
+        "bezeichnung": "Erbringung von Dienstleistungen für den Unterricht"
+    },
+    {
+        "nace_abschnittscode": "P",
+        "nace_code": 85.6,
+        "nace_erweiterter_code": "P 85.60",
+        "bezeichnung": "Erbringung von Dienstleistungen für den Unterricht"
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": "",
+        "nace_erweiterter_code": "Q",
+        "bezeichnung": "Gesundheits- und Sozialwesen"
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 86,
+        "nace_erweiterter_code": "Q 86",
+        "bezeichnung": "Gesundheitswesen"
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 86.1,
+        "nace_erweiterter_code": "Q 86.1",
+        "bezeichnung": "Krankenhäuser"
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 86.1,
+        "nace_erweiterter_code": "Q 86.10",
+        "bezeichnung": "Krankenhäuser"
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 86.2,
+        "nace_erweiterter_code": "Q 86.2",
+        "bezeichnung": "Arzt- und Zahnarztpraxen"
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 86.21,
+        "nace_erweiterter_code": "Q 86.21",
+        "bezeichnung": "Arztpraxen für Allgemeinmedizin"
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 86.22,
+        "nace_erweiterter_code": "Q 86.22",
+        "bezeichnung": "Facharztpraxen"
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 86.23,
+        "nace_erweiterter_code": "Q 86.23",
+        "bezeichnung": "Zahnarztpraxen"
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 86.9,
+        "nace_erweiterter_code": "Q 86.9",
+        "bezeichnung": "Gesundheitswesen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 86.9,
+        "nace_erweiterter_code": "Q 86.90",
+        "bezeichnung": "Gesundheitswesen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 87,
+        "nace_erweiterter_code": "Q 87",
+        "bezeichnung": "Heime (ohne Erholungs- und Ferienheime)"
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 87.1,
+        "nace_erweiterter_code": "Q 87.1",
+        "bezeichnung": "Pflegeheime"
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 87.1,
+        "nace_erweiterter_code": "Q 87.10",
+        "bezeichnung": "Pflegeheime"
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 87.2,
+        "nace_erweiterter_code": "Q 87.2",
+        "bezeichnung": "Stationäre Einrichtungen zur psychosozialen Betreuung, Suchtbekämpfung u.Ä."
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 87.2,
+        "nace_erweiterter_code": "Q 87.20",
+        "bezeichnung": "Stationäre Einrichtungen zur psychosozialen Betreuung, Suchtbekämpfung u.Ä."
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 87.3,
+        "nace_erweiterter_code": "Q 87.3",
+        "bezeichnung": "Altenheime; Alten- und Behindertenwohnheime"
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 87.3,
+        "nace_erweiterter_code": "Q 87.30",
+        "bezeichnung": "Altenheime; Alten- und Behindertenwohnheime"
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 87.9,
+        "nace_erweiterter_code": "Q 87.9",
+        "bezeichnung": "Sonstige Heime (ohne Erholungs- und Ferienheime)"
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 87.9,
+        "nace_erweiterter_code": "Q 87.90",
+        "bezeichnung": "Sonstige Heime (ohne Erholungs- und Ferienheime)"
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 88,
+        "nace_erweiterter_code": "Q 88",
+        "bezeichnung": "Sozialwesen (ohne Heime)"
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 88.1,
+        "nace_erweiterter_code": "Q 88.1",
+        "bezeichnung": "Soziale Betreuung älterer Menschen und Behinderter"
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 88.1,
+        "nace_erweiterter_code": "Q 88.10",
+        "bezeichnung": "Soziale Betreuung älterer Menschen und Behinderter"
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 88.9,
+        "nace_erweiterter_code": "Q 88.9",
+        "bezeichnung": "Sonstiges Sozialwesen (ohne Heime)"
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 88.91,
+        "nace_erweiterter_code": "Q 88.91",
+        "bezeichnung": "Tagesbetreuung von Kindern"
+    },
+    {
+        "nace_abschnittscode": "Q",
+        "nace_code": 88.99,
+        "nace_erweiterter_code": "Q 88.99",
+        "bezeichnung": "Sonstiges Sozialwesen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": "",
+        "nace_erweiterter_code": "R",
+        "bezeichnung": "Kunst, Unterhaltung und Erholung"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 90,
+        "nace_erweiterter_code": "R 90",
+        "bezeichnung": "Kreative, künstlerische und unterhaltende Tätigkeiten"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 90,
+        "nace_erweiterter_code": "R 90.0",
+        "bezeichnung": "Kreative, künstlerische und unterhaltende Tätigkeiten"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 90.01,
+        "nace_erweiterter_code": "R 90.01",
+        "bezeichnung": "Darstellende Kunst"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 90.02,
+        "nace_erweiterter_code": "R 90.02",
+        "bezeichnung": "Erbringung von Dienstleistungen für die darstellende Kunst"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 90.03,
+        "nace_erweiterter_code": "R 90.03",
+        "bezeichnung": "Künstlerisches und schriftstellerisches Schaffen"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 90.04,
+        "nace_erweiterter_code": "R 90.04",
+        "bezeichnung": "Betrieb von Kultur- und Unterhaltungseinrichtungen"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 91,
+        "nace_erweiterter_code": "R 91",
+        "bezeichnung": "Bibliotheken, Archive, Museen, botanische und zoologische Gärten"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 91,
+        "nace_erweiterter_code": "R 91.0",
+        "bezeichnung": "Bibliotheken, Archive, Museen, botanische und zoologische Gärten"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 91.01,
+        "nace_erweiterter_code": "R 91.01",
+        "bezeichnung": "Bibliotheken und Archive"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 91.02,
+        "nace_erweiterter_code": "R 91.02",
+        "bezeichnung": "Museen"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 91.03,
+        "nace_erweiterter_code": "R 91.03",
+        "bezeichnung": "Betrieb von historischen Stätten und Gebäuden und ähnlichen Attraktionen"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 91.04,
+        "nace_erweiterter_code": "R 91.04",
+        "bezeichnung": "Botanische und zoologische Gärten sowie Naturparks"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 92,
+        "nace_erweiterter_code": "R 92",
+        "bezeichnung": "Spiel-, Wett- und Lotteriewesen"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 92,
+        "nace_erweiterter_code": "R 92.0",
+        "bezeichnung": "Spiel-, Wett- und Lotteriewesen"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 92,
+        "nace_erweiterter_code": "R 92.00",
+        "bezeichnung": "Spiel-, Wett- und Lotteriewesen"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 93,
+        "nace_erweiterter_code": "R 93",
+        "bezeichnung": "Erbringung von Dienstleistungen des Sports, der Unterhaltung und der Erholung"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 93.1,
+        "nace_erweiterter_code": "R 93.1",
+        "bezeichnung": "Erbringung von Dienstleistungen des Sports"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 93.11,
+        "nace_erweiterter_code": "R 93.11",
+        "bezeichnung": "Betrieb von Sportanlagen"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 93.12,
+        "nace_erweiterter_code": "R 93.12",
+        "bezeichnung": "Sportvereine"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 93.13,
+        "nace_erweiterter_code": "R 93.13",
+        "bezeichnung": "Fitnesszentren"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 93.19,
+        "nace_erweiterter_code": "R 93.19",
+        "bezeichnung": "Erbringung von sonstigen Dienstleistungen des Sports"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 93.2,
+        "nace_erweiterter_code": "R 93.2",
+        "bezeichnung": "Erbringung von Dienstleistungen der Unterhaltung und der Erholung"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 93.21,
+        "nace_erweiterter_code": "R 93.21",
+        "bezeichnung": "Vergnügungs- und Themenparks"
+    },
+    {
+        "nace_abschnittscode": "R",
+        "nace_code": 93.29,
+        "nace_erweiterter_code": "R 93.29",
+        "bezeichnung": "Erbringung von Dienstleistungen der Unterhaltung und der Erholung a.n.g."
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": "",
+        "nace_erweiterter_code": "S",
+        "bezeichnung": "Erbringung von sonstigen Dienstleistungen"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 94,
+        "nace_erweiterter_code": "S 94",
+        "bezeichnung": "Interessenvertretungen sowie kirchliche und sonstige religiöse Vereinigungen (ohne Sozialwesen und Sport)"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 94.1,
+        "nace_erweiterter_code": "S 94.1",
+        "bezeichnung": "Wirtschafts- und Arbeitgeberverbände, Berufsorganisationen"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 94.11,
+        "nace_erweiterter_code": "S 94.11",
+        "bezeichnung": "Wirtschafts- und Arbeitgeberverbände"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 94.12,
+        "nace_erweiterter_code": "S 94.12",
+        "bezeichnung": "Berufsorganisationen"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 94.2,
+        "nace_erweiterter_code": "S 94.2",
+        "bezeichnung": "Arbeitnehmervereinigungen"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 94.2,
+        "nace_erweiterter_code": "S 94.20",
+        "bezeichnung": "Arbeitnehmervereinigungen"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 94.9,
+        "nace_erweiterter_code": "S 94.9",
+        "bezeichnung": "Kirchliche Vereinigungen; politische Parteien sowie sonstige Interessenvertretungen und Vereinigungen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 94.91,
+        "nace_erweiterter_code": "S 94.91",
+        "bezeichnung": "Kirchliche und sonstige religiöse Vereinigungen"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 94.92,
+        "nace_erweiterter_code": "S 94.92",
+        "bezeichnung": "Politische Parteien und Vereinigungen"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 94.99,
+        "nace_erweiterter_code": "S 94.99",
+        "bezeichnung": "Sonstige Interessenvertretungen und Vereinigungen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 95,
+        "nace_erweiterter_code": "S 95",
+        "bezeichnung": "Reparatur von Datenverarbeitungsgeräten und Gebrauchsgütern"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 95.1,
+        "nace_erweiterter_code": "S 95.1",
+        "bezeichnung": "Reparatur von Datenverarbeitungs- und Telekommunikationsgeräten"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 95.11,
+        "nace_erweiterter_code": "S 95.11",
+        "bezeichnung": "Reparatur von Datenverarbeitungsgeräten und peripheren Geräten"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 95.12,
+        "nace_erweiterter_code": "S 95.12",
+        "bezeichnung": "Reparatur von Telekommunikationsgeräten"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 95.2,
+        "nace_erweiterter_code": "S 95.2",
+        "bezeichnung": "Reparatur von Gebrauchsgütern"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 95.21,
+        "nace_erweiterter_code": "S 95.21",
+        "bezeichnung": "Reparatur von Geräten der Unterhaltungselektronik"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 95.22,
+        "nace_erweiterter_code": "S 95.22",
+        "bezeichnung": "Reparatur von elektrischen Haushaltsgeräten und Gartengeräten"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 95.23,
+        "nace_erweiterter_code": "S 95.23",
+        "bezeichnung": "Reparatur von Schuhen und Lederwaren"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 95.24,
+        "nace_erweiterter_code": "S 95.24",
+        "bezeichnung": "Reparatur von Möbeln und Einrichtungsgegenständen"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 95.25,
+        "nace_erweiterter_code": "S 95.25",
+        "bezeichnung": "Reparatur von Uhren und Schmuck"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 95.29,
+        "nace_erweiterter_code": "S 95.29",
+        "bezeichnung": "Reparatur von sonstigen Gebrauchsgütern"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 96,
+        "nace_erweiterter_code": "S 96",
+        "bezeichnung": "Erbringung von sonstigen überwiegend persönlichen Dienstleistungen"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 96,
+        "nace_erweiterter_code": "S 96.0",
+        "bezeichnung": "Erbringung von sonstigen überwiegend persönlichen Dienstleistungen"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 96.01,
+        "nace_erweiterter_code": "S 96.01",
+        "bezeichnung": "Wäscherei und chemische Reinigung"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 96.02,
+        "nace_erweiterter_code": "S 96.02",
+        "bezeichnung": "Frisör- und Kosmetiksalons"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 96.03,
+        "nace_erweiterter_code": "S 96.03",
+        "bezeichnung": "Bestattungswesen"
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 96.04,
+        "nace_erweiterter_code": "S 96.04",
+        "bezeichnung": "Saunas, Solarien, Bäder u.Ä."
+    },
+    {
+        "nace_abschnittscode": "S",
+        "nace_code": 96.09,
+        "nace_erweiterter_code": "S 96.09",
+        "bezeichnung": "Erbringung von sonstigen Dienstleistungen a.n.g."
+    },
+    {
+        "nace_abschnittscode": "T",
+        "nace_code": "",
+        "nace_erweiterter_code": "T",
+        "bezeichnung": "Private Haushalte mit Hauspersonal; Herstellung von Waren und Erbringung von Dienstleistungen durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt"
+    },
+    {
+        "nace_abschnittscode": "T",
+        "nace_code": 97,
+        "nace_erweiterter_code": "T 97",
+        "bezeichnung": "Private Haushalte mit Hauspersonal"
+    },
+    {
+        "nace_abschnittscode": "T",
+        "nace_code": 97,
+        "nace_erweiterter_code": "T 97.0",
+        "bezeichnung": "Private Haushalte mit Hauspersonal"
+    },
+    {
+        "nace_abschnittscode": "T",
+        "nace_code": 97,
+        "nace_erweiterter_code": "T 97.00",
+        "bezeichnung": "Private Haushalte mit Hauspersonal"
+    },
+    {
+        "nace_abschnittscode": "T",
+        "nace_code": 98,
+        "nace_erweiterter_code": "T 98",
+        "bezeichnung": "Herstellung von Waren und Erbringung von Dienstleistungen durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt"
+    },
+    {
+        "nace_abschnittscode": "T",
+        "nace_code": 98.1,
+        "nace_erweiterter_code": "T 98.1",
+        "bezeichnung": "Herstellung von Waren durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt"
+    },
+    {
+        "nace_abschnittscode": "T",
+        "nace_code": 98.1,
+        "nace_erweiterter_code": "T 98.10",
+        "bezeichnung": "Herstellung von Waren durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt"
+    },
+    {
+        "nace_abschnittscode": "T",
+        "nace_code": 98.2,
+        "nace_erweiterter_code": "T 98.2",
+        "bezeichnung": "Erbringung von Dienstleistungen durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt"
+    },
+    {
+        "nace_abschnittscode": "T",
+        "nace_code": 98.2,
+        "nace_erweiterter_code": "T 98.20",
+        "bezeichnung": "Erbringung von Dienstleistungen durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt"
+    },
+    {
+        "nace_abschnittscode": "U",
+        "nace_code": "",
+        "nace_erweiterter_code": "U",
+        "bezeichnung": "Exterritoriale Organisationen und Körperschaften"
+    },
+    {
+        "nace_abschnittscode": "U",
+        "nace_code": 99,
+        "nace_erweiterter_code": "U 99",
+        "bezeichnung": "Exterritoriale Organisationen und Körperschaften"
+    },
+    {
+        "nace_abschnittscode": "U",
+        "nace_code": 99,
+        "nace_erweiterter_code": "U 99.0",
+        "bezeichnung": "Exterritoriale Organisationen und Körperschaften"
+    },
+    {
+        "nace_abschnittscode": "U",
+        "nace_code": 99,
+        "nace_erweiterter_code": "U 99.00",
+        "bezeichnung": "Exterritoriale Organisationen und Körperschaften"
+    }
+
+]
+

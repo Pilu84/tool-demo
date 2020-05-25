@@ -1,0 +1,568 @@
+@import '../main/main.less';
+@mobile:    ~"only screen and (min-width: 150px) and (max-width: 450px)";
+@imagesDir: '../data';
+
+
+p {
+    overflow-wrap: break-word;
+}
+
+li {
+    list-style: none;
+}
+
+button {
+    width              : 38px;
+    height             : 38px;
+    cursor             : pointer;
+    background-color   : #d9d9d9;
+    border             : 0px solid #d9d9d9;
+    background-size    : 28px 28px;
+    background-repeat  : no-repeat;
+    background-position: center;
+    border-radius      : 5px;
+    margin             : 2px; // Achtung, das macht alles hübscher, "hackt" uns aber auch ins Layout rein
+
+    &:hover {
+        background-color: rgb(189, 215, 238);
+    }
+}
+
+.selectedBtn {
+    width: 200px;
+}
+
+.plus {
+    background-image: url('@{imagesDir}/icons8-plus.svg');
+}
+
+.ok {
+    background-image: url('@{imagesDir}/icons8-ok.png');
+}
+
+.cancel {
+    background-image: url('@{imagesDir}/icons8-cancel.svg');
+}
+
+.minus {
+    background-image: url('@{imagesDir}/icons8-minus.png');
+}
+
+.buttonWrapper {
+    display: flex;
+    align-items: center;
+}
+
+.mainContentBox {
+    margin: auto;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 100px;
+
+    h2 {
+        text-align: center;
+    }
+
+    p {
+        text-align: justify;
+    }
+}
+
+.box {
+    border: 1px solid black;
+    margin-bottom: 15px;
+
+    p {
+        margin: 0;
+        padding: 10px;
+    }
+
+
+    .boxTitel {
+        background-color: rgb(189, 215, 238);
+        border-bottom: 1px solid black;
+
+        p {
+            font-weight: bold;
+        }
+
+    }
+
+    .boxContent {
+        
+        &_Row {
+            background-color: rgb(217,217,217);
+            display: flex;
+            flex-direction: row;
+
+            p {
+                font-style: oblique;
+            }
+        }
+
+        &_Column {
+            background-color: rgb(217,217,217);
+            display: flex;
+            flex-direction: column;
+
+            p {
+                font-style: oblique;
+            }
+        }
+    }
+
+    .radioElement {
+        display: flex;
+        align-items: center;
+    }
+
+    .checkBoxElement {
+        .radioElement;
+    }
+
+    .firstList {
+        display: flex;
+    }
+
+    .secondList {
+        .firstList;
+    }
+}
+
+.row {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    margin: 5px 0;
+    background-color: rgb(217,217,217);
+    align-items: center;
+}
+
+.column {
+    width: 50%;
+}
+
+.firstColumn {
+    width: 5%;
+    border-right: 1px solid black;
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+
+    p {
+        transform: rotate(-90deg);
+        width: 100px;
+    }
+}
+
+.secondColumn {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.leerFirstColumn {
+    .firstColumn;
+    border: none;
+    height: 100%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.inputFielWrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.inputTextWrapper {
+    width: 15%;
+    padding-right: 10px;
+}
+
+.inputFieldWrapper {
+    width: 50%;
+
+    input {
+        width: 100%;
+    }
+}
+
+
+.arrow_left {
+
+    &::after {
+        content: 'i';
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 15px;
+        height: 15px;
+        color: white;
+        border-radius: 50%;
+        background-color: rgb(179, 174, 174);
+        font-size: 10px;
+
+    }
+
+    // Arrow style
+    // width: 0px;
+    // height: 0px;
+    // border-top: 4px solid transparent;
+    // border-bottom: 4px solid transparent;
+    // border-right: 4px solid red;
+}
+
+.aufnahmebogenWrapper {
+    border: 1px solid black;
+
+
+    .rowAufnahmebogen {
+        .row;
+        margin: 0;
+        border: none;
+        padding: 10px 0;
+
+        .radioElement {
+            display: flex;
+            align-items: center;
+        }
+        
+
+        input[type='radio'] {
+            margin-right: 5px;
+        }
+
+        .first {
+            width: 25%;
+            display: flex;
+            justify-content: space-between;
+        }
+        .second {
+            width: 25%;
+            display: flex;
+        }
+
+        .third {
+            width: 15%;
+            display: flex;
+            justify-content: center;
+        }
+
+        .fourth {
+            .checkboxEigen {
+                display: flex;
+                align-items: center;
+            }
+        }
+    }
+
+    .rowAufnahmebogenTitel {
+        .rowAufnahmebogen;
+        border-bottom: 1px solid black;
+    }
+
+    .aufnahmebogenColumn {
+        padding-left: 10px;
+        display: flex;
+
+        p {
+            margin: 0;
+            text-align: left;
+        }
+
+        input[type='checkbox'] {
+            margin-right: 10px;
+        }
+    }
+
+
+}
+
+.tooltip {
+    background-color: #88A !important;
+    box-shadow: 4px 4px 4px rgba(0, 0, 48, .3);
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 12px !important;
+    pointer-events: auto !important;
+    max-width: 300px;
+    &:hover {
+        visibility: visible !important;
+    }
+    opacity: 1 !important;
+
+}
+
+.eintraege {
+    position: fixed;
+    width: 600px;
+    height: 550px;
+    background-color: white;
+    border: 1px solid #d9d9d9;
+    border-radius: 5px;
+    padding: 10px;
+    z-index: 999999;
+    box-shadow: 8px 8px 12px rgba(0, 0, 48, 0.4);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .eintraegeTitel {
+        background-color: #d9d9d9;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 40px;
+        margin-bottom: 20px;
+    }
+
+    .eintraegeContent {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        height: 80%;
+        width: 100%;
+
+        div {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+
+            input {
+                width: 60%;
+            }
+        }
+        
+        p {
+            margin: 0;
+        }
+    }
+}
+
+.selectedContent {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    overflow: auto;
+
+    div {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+
+    }
+    
+    p {
+        margin: 0;
+    }
+}
+
+@media @mobile {
+
+    .mainContentBox {
+        .mainContentBox;
+        width: 85%;
+    }
+
+    .box, .row {
+        p {
+            text-align: left;
+        }
+    }
+
+    .boxContent_Column, .boxContent_Row {
+        padding-left: 10px;
+    }
+
+    .leerFirstColumn {
+        margin: 0;
+        width: 0;
+    }
+
+    .column {
+        padding: 0 10px;
+    }
+
+    .row {
+        flex-direction: column;
+    }
+
+    .firstColumn {
+        width: 100%;
+        border-bottom: 1px solid black;
+        height: 50px;
+        margin: 0;
+        border-right: none;
+
+        p {
+            transform: rotate(0deg);
+            text-align: center;
+            width: 100%;
+        }
+    }
+
+    .leerFirstColumn {
+        height: 100%;
+    }
+
+    .firstList, .secondList {
+        flex-direction: column;
+    }
+
+    .boxContent_Row, .boxContent_Column {
+        flex-direction: column !important;
+    }
+
+    .inputFielWrapper {
+        flex-direction: column;
+
+        .inputTextWrapper {
+            width: 100%;
+        }
+
+        .inputField {
+            width: 100%;
+            margin-bottom: 10px;
+
+            input {
+                width: 100%;
+            }
+        }
+    }
+
+
+    .aufnahmebogenWrapper {
+        width: 100%;
+        flex-direction: row;
+        border: none;
+
+        .rowAufnahmebogenTitel {
+            flex-direction: column;
+            justify-content: space-around;
+            height: 100px;
+            border: 1px solid black;
+            border-radius: 5px;
+            margin: 10px 0;
+            padding: 10px;
+
+            .first {
+                width: 100%;
+                display: flex;
+                justify-content: center;
+            }
+            .second {
+                width: 100%;
+                flex-direction: column-reverse;
+                align-items: center;
+                padding: 10px 0;
+
+                .arrow_left {
+                    margin-bottom: 10px;
+                }
+            }
+    
+           .third {
+                visibility: hidden;
+                height: 0;
+            }
+
+            .fourth {
+                visibility: hidden;
+                height: 0;
+
+            }
+        }
+
+        .rowAufnahmebogen {
+            flex-direction: column;
+            height: 100%;
+            justify-content: space-around;
+            border: 1px solid black;
+            border-radius: 5px;
+            margin: 10px 0;
+            padding: 10px;
+
+            .radioElement {
+                width: 50px;
+            }
+
+            ~input {
+                height: 100%;
+            }
+
+            .first {
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                margin-top: 20px;
+
+                .arrow_left {
+                    margin: 10px 0 ;
+                }
+            }
+            .second {
+                width: 100%;
+                justify-content: space-around;
+                margin-bottom: 10px;
+                height: 100%;
+            }
+    
+            .third {
+                width: 100%;
+                margin-bottom: 10px;
+            }
+
+            .fourth {
+                width: 100%;
+            }
+        }
+
+        .aufnahmebogenColumn {
+            padding: 0;
+            justify-content: center;
+        }
+    }
+
+    .arrow_left {
+
+        &::after {
+            width: 30px;
+            height: 30px !important;
+            font-size: 15px !important;
+        }
+    }
+
+    .buttonWrapper {
+        position: fixed;
+        top: 50px;
+        left: 0;
+        flex-direction: column;
+        justify-content: center;
+        width: 100%;
+        height: 150px;
+        background-color: white;
+        z-index: 5;
+    }
+
+    .eintraege {
+        width: 100%;
+        padding: 0;
+        padding-top: 10px;
+    }
+    .eintraegeTitel {
+        height: 42px;
+    }
+
+}

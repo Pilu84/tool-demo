@@ -1,0 +1,176 @@
+@import '../default.less';
+@mobile:    ~"only screen and (min-width: 150px) and (max-width: 450px)";
+
+
+.headline {
+    padding-top: 40px;
+    color: #555;
+    text-align: center;
+    font-size: 14pt;
+
+}
+
+.loginBox {
+    display: flex;
+    flex-direction: column;
+    height: 180px;
+    justify-content: space-between;
+
+    button {
+        width: 100%;
+        border-radius: 5px !important;
+        margin-top: 10px;
+        font-size: 12pt;
+    }
+}
+
+.userWrapper {
+    background-color: #888; 
+    color: #FFF; 
+    padding: 0 10px;
+    font-size: 12pt;
+    cursor: pointer; 
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    height: 50px;
+}
+
+.topWrapper {
+    border-bottom: 1px solid black;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    z-index: 9999;
+}
+
+.loginWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+
+    input {
+        border-radius: 5px;
+        padding: 10px;
+        border: 1px solid gray;
+        font-size: 12pt;
+
+        &:focus {
+            border: 1px solid black;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.75);
+        }
+    }
+}
+
+.button {
+    background-color: #d0cece;
+    border-radius: 0 !important;
+
+    &:hover {
+        border: 1px solid #a29898;
+        background-color: #d0cece;
+    }
+}
+
+.logoWrapper {
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.contentWrapper {
+    margin-top: 60px;
+}
+
+.menuBox {
+    width: 60px;
+    border: 1px solid black;
+    border-top: none;
+    border-bottom: none;
+    text-align: center;
+
+    &:hover {
+        cursor: pointer;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.75);
+        background-color: #888;
+        color: #FFF;
+    }
+}
+
+.listMenu {
+    position: relative;
+    top: 0;
+    left: -1px;
+    background-color: white;
+    border: 1px solid black;
+    border-bottom: none;
+    width: 150px;
+    text-align: left;
+
+    div {
+        padding: 10px;
+        background-color: #FFF;
+        color: #000;
+        height: 25px;
+        display: flex;
+        align-items: center;
+        border-bottom: 1px solid black;
+    
+        &:hover {
+            cursor: pointer;
+            background-color: #888;
+            color: #FFF;
+        }
+    }
+}
+
+.error {
+    border: 1px solid red !important;
+    font-size: 11pt;
+}
+
+@media @mobile {
+    .loginWrapper {
+
+        div {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-content: center;
+
+            form {
+                width: 90%;
+                margin: auto;
+            }
+
+            div {
+                display: flex;
+                justify-content: center;
+
+                img {
+                    width: 90%;
+                    margin: auto;
+                }
+            }
+        }
+    }
+
+    .mainTitel {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .logoWrapper {
+        img {
+            width: 120px;
+        }
+    }
+
+}

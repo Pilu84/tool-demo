@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+*.lock
+*.svg
+*.jpg
+*.png
+.awcache
+Ohne Titel.code-workspace

@@ -1,0 +1,7 @@
+{
+    "menuPunkt": [
+        {"id": 1, "name": "Wilkommen"},
+        {"id": 2, "name": "Konfiguration"},
+        {"id": 6, "name": "Ausloggen"}
+    ]
+}

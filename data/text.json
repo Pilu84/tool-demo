@@ -1,0 +1,65 @@
+{
+    "wilkommen": {
+        "headTitel": "Tool Demo App",
+        "unterTitel": "Herzlich Wilkommen!",
+        "paragraphs": [
+            "First Lorem ipsum dolor sit amet consectetur, adipisicing elit. At rerum similique saepe accusantium explicabo dolor magni, optio alias officia adipisci nesciunt fuga voluptatem commodi reiciendis itaque, fugit ad sunt architecto? Lorem ipsum dolor sit amet consectetur, adipisicing elit. At rerum similique saepe accusantium explicabo dolor magni, optio alias officia adipisci nesciunt fuga voluptatem commodi reiciendis itaque, fugit ad sunt architecto?",
+            "Second ipsum dolor sit amet consectetur, adipisicing elit. At rerum similique saepe accusantium explicabo dolor magni, optio alias officia adipisci nesciunt fuga voluptatem commodi reiciendis itaque, fugit ad sunt architecto?",
+            "Third ipsum dolor sit amet consectetur, adipisicing elit. At rerum similique saepe accusantium explicabo dolor magni, optio alias officia adipisci nesciunt fuga voluptatem commodi reiciendis itaque, fugit ad sunt architecto?",
+            "Fourth ipsum dolor sit amet consectetur, adipisicing elit. At rerum similique saepe accusantium explicabo dolor magni, optio alias officia adipisci nesciunt fuga voluptatem commodi reiciendis itaque, fugit ad sunt architecto?"
+        ]
+    },
+    "config": [
+        {
+            "type": "radio",
+            "question": "Erste Frage?",
+            "name": "erste_frage",
+            "answers": ["First psum dolor sit amet consectetur, adipisicing elit.", "Lorem ipsum dolor sit amet consectetur, adipisicing elit."]
+        },
+        {
+            "type": "checkbox",
+            "question": "Zweite Frage?",
+            "name": "zweite_frage",
+            "answers": [
+                "Erste Option",
+                "Zweite Option",
+                "Dritte Option",
+                "Vierte Option",
+                "Fünfte Option",
+                "Sechste Option"
+            ]
+        },
+        {
+            "type": "radio",
+            "question": "Dritte Frage?",
+            "name": "dritte_frage",
+            "answers": [
+                "Ja",
+                "Nein"
+            ],
+            "extraInfo": "(dolor sit amet consectetur, adipisicing elit)"
+        },
+        {
+            "type": "radio",
+            "question": "Vierte Frage?",
+            "name": "vierte_frage",
+            "answers": ["First psum dolor sit amet consectetur, adipisicing elit.", "Lorem ipsum dolor sit amet consectetur, adipisicing elit."]
+        },
+        {
+            "type": "radio",
+            "question": "Fünfte Frage?",
+            "name": "fuenfte_frage",
+            "answers": ["First psum dolor sit amet consectetur, adipisicing elit.", "Lorem ipsum dolor sit amet consectetur, adipisicing elit."]
+        },
+        {
+            "type": "radio",
+            "question": "Sechste Frage?",
+            "name": "sechste_frage",
+            "answers": [
+                "Ja",
+                "Nein"
+            ],
+            "extraInfo": "(dolor sit amet consectetur, adipisicing elit)"
+        }
+    ]
+}
