@@ -2,6 +2,9 @@
     "menuPunkt": [
         {"id": 1, "name": "Wilkommen"},
         {"id": 2, "name": "Konfiguration"},
+        {"id": 3, "name": "Inhaltsübersicht"},
+        {"id": 4, "name": "Aufnahmebogen"}, 
+        {"id": 5, "name": "NACE Auswahl Demo"},
         {"id": 6, "name": "Ausloggen"}
     ]
 }
